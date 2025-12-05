@@ -16,7 +16,7 @@ def clean_text(text: str) -> str:
     return text.strip()
 
 
-def load_datasets(movie_path: str, book_path: str, book_tags_path: str, tags_path: str):
+def load_datasets(movie_path: str, book_path: str, book_tags_path: str, tags_path: str)-> tuple[pd.DataFrame, pd.DataFrame, pd.DataFrame, pd.DataFrame]:
     # Load the movie and book datasets from CSV files
 
     print("Loading datasets...")
@@ -27,38 +27,12 @@ def load_datasets(movie_path: str, book_path: str, book_tags_path: str, tags_pat
 
     print(f"Movies loaded: {movies.shape[0]} rows")
     print(f"Books loaded: {books.shape[0]} rows")
-    print(f"Book Tags loaded: {book_tags.shape[0]} rows")
-    print(f"Tag Names loaded: {tags.shape[0]} rows")
+    print(f"Book Tags: {book_tags.shape[0]} rows")
+    print(f"Tag Names: {tags.shape[0]} rows")
     return movies, books, book_tags, tags
 
 
-def preprocess_data(movies: pd.DataFrame, books: pd.DataFrame):
-    # Clean and prepare movie and book datasets for embedding generation
-    tqdm.pandas()
-
-    # keep only relevant columns
-    movies= movies[['title', 'overview', "keywords"]].dropna().rename(
-        columns={'title': 'movie_title', 'overview': 'movie_overview', 'keywords': 'movie_keywords'}
-    )
-    books = books[['id','title', 'authors', 'original_title']].dropna().rename(
-        columns={
-            'id': 'book_id',
-            'title': 'book_title',
-            'authors': 'book_author',
-            'original_title': 'book_description'
-        }
-    )
-
-    # clean text
-    print("Cleaning movie and book text fields...")
-    movies['clean_overview'] = movies['movie_overview'].progress_apply(clean_text)
-    books['clean_description'] = books['book_description'].progress_apply(clean_text)
-
-    # print("Cleaning Complete.")
-    return movies, books
-
-
-def merge_book_tags(books, book_tags, tags):
+def merge_book_tags(books: pd.DataFrame, book_tags: pd.DataFrame, tags: pd.DataFrame) -> pd.DataFrame:
     print("Merging book tags...")
 
     # Attach tag names to book_tags
@@ -70,22 +44,74 @@ def merge_book_tags(books, book_tags, tags):
         book_tags_named,
         left_on='book_id',
         right_on='goodreads_book_id',
-        how='left'
+        how='left',
+    )
+    # Base text: book title + author
+    books_with_tags["title"] = books_with_tags["title"].fillna("").astype(str)
+    books_with_tags["authors"] = books_with_tags["authors"].fillna("").astype(str)
+
+    # tag_name may be NAN if no tag; fill with empty string
+    books_with_tags["tag_name"] = books_with_tags["tag_name"].fillna("").astype(str)
+
+    # Group tags by book so each book has a single row
+    grouped = (
+        books_with_tags
+        .groupby(["book_id", "title", "authors"], dropna=False)["tag_name"]
+        .apply(lambda x: " ".join(sorted(set([t for t in x if t])))) # unique tags joined
+        .reset_index()
     )
 
-    # Group tag names for each book
-    books_tag_grouped = books_with_tags.groupby(
-        ['book_id', 'book_title', 'book_author', 'clean_description']
-    )['tag_name'].apply(lambda x: list(set(x.dropna()))).reset_index()
+    grouped = grouped.rename(columns={"title": "book_title",
+                                      "authors": "book_author",
+                                      "tag_name": "tag_text"})
 
-    # rename for consistency
-    books_tag_grouped = books_tag_grouped.rename(columns={'tag_name': 'tags'})
+    # Building combined text for text embedding
+    grouped["combined_text"] =(
+        grouped["book_title"].fillna("").astype(str)
+        + " "
+        + grouped["book_author"].fillna("").astype(str)
+        + " "
+        + grouped["tag_text"].fillna("").astype(str)
+    ).str.strip()
 
-    print("Tags successfully merged")
-    return books_tag_grouped
+    return grouped
 
 
-def save_processed_data(movies: pd.DataFrame, books: pd.DataFrame, output_dir: str = "data/processed") -> None:
+def preprocess_data(movies: pd.DataFrame, books: pd.DataFrame, book_tags: pd.DataFrame, tags: pd.DataFrame) -> tuple[pd.DataFrame, pd.DataFrame]:
+    # Clean and prepare movie and book datasets for embedding generation
+    tqdm.pandas()
+
+    # keep only relevant columns
+    print("Preprocessing movies...")
+    movies = movies[['title', 'overview']].dropna(subset=["title","overview"])
+    movies = movies.rename(columns={"title": "movie_title", "overview": "movie_overview"})
+
+    # clean overview text
+    movies['clean_overview'] = movies['movie_overview'].progress_apply(clean_text)
+
+    # Ensure text fields are proper strings and remove rows with empty text
+    movies["clean_overview"] = movies["clean_overview"].fillna("").astype(str)
+    movies = movies[movies["clean_overview"] != ""]
+
+    print(f"Movies after cleaning: {movies.shape[0]} rows")
+
+    print("Preprocessing books + tags...")
+    books_merged = merge_book_tags(books,book_tags, tags)
+
+    # Clean combined_text for books
+    books_merged["combined_text"] = books_merged["combined_text"].progress_apply(clean_text)
+    books_merged["combined_text"] = books_merged["combined_text"].fillna("").astype(str)
+
+    # Drop rows with empty combined_text (incomplete data)
+    before = books_merged.shape[0]
+    books_merged = books_merged[books_merged["combined_text"] != ""]
+    after = books_merged.shape[0]
+    print(f"Books after cleaning and dropping empty text: {after} rows (dropped {before - after})")
+
+    return movies, books_merged
+
+
+def save_processed_data(movies: pd.DataFrame, books: pd.DataFrame, output_dir: str = "data/processed/") -> None:
 
     # Save cleaned datasets to the processed data folder
 
