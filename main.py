@@ -2,10 +2,11 @@
 from src.data_preprocessing import *
 from src.embedding_generator import embed_movies_and_books
 from src.similarity_engine import recommend
-
+from src.build_labeled_pairs import *
+from src.model_training import *
 if __name__ == "__main__":
 
-    # # raw data paths
+    # #raw data paths
     # movie_path = "data/raw/tmdb_5000_movies.csv"
     # book_path = "data/raw/books.csv"
     # book_tags_path = "data/raw/book_tags.csv"
@@ -24,13 +25,23 @@ if __name__ == "__main__":
     # movie_embeddings, book_embeddings = embed_movies_and_books()
 
     # create recommendations
-    test_movie = "Avatar"
+    # test_movie = "Interstellar"
+    #
+    # try:
+    #     recs = recommend(test_movie, top_n=5, min_similarity=0.2)
+    #     print(f"Creating recommendations for movie: '{test_movie}'")
+    #     for r in recs:
+    #         print(f" - {r["book_title"]} by {r["book_author"]} (similarity: {r["similarity"]})")
+    #
+    # except ValueError as e:
+    #     print(f"Error: {e}")
 
-    try:
-        recs = recommend(test_movie, top_n=5, min_similarity=0.2)
-        print(f"Creating recommendations for movie: '{test_movie}'")
-        for r in recs:
-            print(f" - {r["book_title"]} by {r["book_author"]} (similarity: {r["similarity"]})")
+    # #Testing build_label_pairs.py
+    # movies, books, movie_emb, book_emb = load_data()
+    # labeled_df = build_labeled_pairs(movies,books, movie_emb,book_emb)
+    # save_labeled_pairs(labeled_df)
 
-    except ValueError as e:
-        print(f"Error: {e}")
+    df = load_labeled_data()
+    X, y = prepare_features_and_labels(df)
+
+    cross_validate_model(X, y, n_splits=5)
