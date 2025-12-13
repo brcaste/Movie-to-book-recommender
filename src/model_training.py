@@ -62,3 +62,39 @@ def cross_validate_model(X, y, n_splits: int = 5):
     print("\nDetailed classification report:")
     print(classification_report(y, y_pred, zero_division=0))
 
+
+def hyperparameter_tuning(X, y, n_splits: int = 5):
+    print("Starting hyperparameter tuning with GridSearchCV...")
+    skf = StratifiedKFold(n_splits=n_splits, shuffle=True, random_state=42)
+
+    base_model = LogisticRegression(max_iter=1000)
+
+    param_grid = {
+        'C': [0.01, 0.1, 1, 10, 100],
+        'class_weight': [None, 'balanced'],
+        'solver': ['lbfgs'],
+    }
+
+    grid = GridSearchCV(
+        estimator=base_model,
+        param_grid=param_grid,
+        scoring='f1',
+        n_jobs=-1,
+        verbose=1,
+        error_score='raise'
+    )
+
+    grid.fit(X, y)
+
+    print("Hyperparameter tuning complete.")
+    print(f"Best params: {grid.best_params_}")
+    print(f"Best F1 score: {grid.best_score_:.3f}")
+
+    best_model = grid.best_estimator_
+    return best_model
+
+
+def save_model(model, path: str = "models/cosine_logreg.pkl"):
+    os.makedirs(os.path.dirname(path), exist_ok=True)
+    joblib.dump(model, path)
+    print(f"Best model saved to {path}")

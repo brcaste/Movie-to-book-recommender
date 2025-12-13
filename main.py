@@ -45,3 +45,7 @@ if __name__ == "__main__":
     X, y = prepare_features_and_labels(df)
 
     cross_validate_model(X, y, n_splits=5)
+
+    best_model = hyperparameter_tuning(X, y, n_splits=5)
+
+    save_model(best_model)
