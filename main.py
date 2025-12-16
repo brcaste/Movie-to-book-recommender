@@ -24,10 +24,11 @@ if __name__ == "__main__":
     # creating embeddings (!!only run once - saves embeddings - time consuming if running on CPU)
     movie_embeddings, book_embeddings = embed_movies_and_books()
 
+
     print("=" * 60)
     print("Book recommendation for movie titles")
     print("=" * 60)
-    # create recommendations
+    # creating 3 recommendations
     test_movie = "Interstellar"
 
     try:
@@ -60,7 +61,7 @@ if __name__ == "__main__":
         print(f"Error: {e}")
     print("=" * 60)
 
-    #Testing build_label_pairs.py
+    # Testing build_label_pairs.py for cross-validation
     movies, books, movie_emb, book_emb = load_data()
     labeled_df = build_labeled_pairs(movies,books, movie_emb,book_emb)
     save_labeled_pairs(labeled_df)
@@ -68,9 +69,12 @@ if __name__ == "__main__":
     # Load and prepare data
     df = load_labeled_data()
     X, y = prepare_features_and_labels(df)
+
     # Cross-validating labeled pairs
     cross_validate_model(X, y, n_splits=5)
+
     # training and hyperparameter tuning model
     best_model = hyperparameter_tuning(X, y, n_splits=5)
+
     # saving model
     save_model(best_model)
