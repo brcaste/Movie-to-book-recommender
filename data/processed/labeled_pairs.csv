@@ -1,0 +1,1501 @@
+movies_row,movie_title,book_row,book_title,cosine_sim,label
+614,Despicable Me,4031,"Captain Underpants and the Perilous Plot of Professor Poopypants (Captain Underpants, #4)",0.2825341522693634,0
+614,Despicable Me,8426,"Vicious (Villains, #1)",0.282206267118454,0
+614,Despicable Me,5779,"H.I.V.E. Higher Institute of Villainous Education (H.I.V.E., #1)",0.2821388840675354,0
+3659,Farce of the Penguins,2807,Mr. Popper's Penguins,0.3911413550376892,0
+3659,Farce of the Penguins,2782,"Simply Irresistible (Chinooks Hockey Team, #1)",0.37979063391685486,0
+3659,Farce of the Penguins,2783,"See Jane Score (Chinooks Hockey Team, #2)",0.3539031445980072,0
+2841,Stir of Echoes,6896,"Dark Visions (Dark Visions, #1-3)",0.38625001907348633,0
+2841,Stir of Echoes,9604,A Head Full of Ghosts,0.36078017950057983,0
+2841,Stir of Echoes,1502,Ghost Story,0.36065301299095154,0
+2811,The Golden Child,7797,"The Hidden Child (Patrik Hedström, #5)",0.43539226055145264,1
+2811,The Golden Child,7784,"The Keeper of Lost Causes (Department Q, #1)",0.41899538040161133,1
+2811,The Golden Child,9816,"Orphan X (Orphan X, #1)",0.41063088178634644,1
+1307,The Hurricane,7945,Escape from Camp 14: One Man's Remarkable Odyssey from North Korea to Freedom in the West,0.31473639607429504,0
+1307,The Hurricane,1021,The Executioner's Song,0.3135526478290558,0
+1307,The Hurricane,9812,Killing Reagan: The Violent Assault That Changed a Presidency,0.28535088896751404,0
+3663,Christmas Eve,4940,If on a Winter's Night a Traveler,0.38369128108024597,0
+3663,Christmas Eve,2605,Last Exit to Brooklyn,0.37640702724456787,0
+3663,Christmas Eve,1303,"Tales of the City (Tales of the City, #1)",0.37548136711120605,0
+4465,Aqua Teen Hunger Force Colon Movie Film for Theaters,2819,"The Warrior's Apprentice (Vorkosigan Saga, #2)",0.3865853548049927,0
+4465,Aqua Teen Hunger Force Colon Movie Film for Theaters,5488,Rumble Fish,0.35511600971221924,0
+4465,Aqua Teen Hunger Force Colon Movie Film for Theaters,3494,Split Infinity  (Apprentice Adept #1),0.35288918018341064,0
+31,Iron Man 3,3440,The Rape of Nanking,0.27489984035491943,0
+31,Iron Man 3,4944,The Manchurian Candidate (Movie Tie-In Edition),0.2670259475708008,0
+31,Iron Man 3,6813,The Man from Beijing,0.26499778032302856,0
+1225,Mickey Blue Eyes,8031,"The Kingmaker's Daughter (The Plantagenet and Tudor Novels, #4)",0.28105923533439636,0
+1225,Mickey Blue Eyes,1488,"Ronia, the Robber's Daughter",0.2781369388103485,0
+1225,Mickey Blue Eyes,8528,"The Beggar King (The Hangman's Daughter, #3)",0.25298061966896057,0
+4000,Beer League,1539,The Five Dysfunctions of a Team: A Leadership Fable,0.337895929813385,0
+4000,Beer League,9933,"The Goal (Off-Campus, #4)",0.30901312828063965,0
+4000,Beer League,9848,Evicted: Poverty and Profit in the American City,0.298437237739563,0
+2476,White Oleander,6661,After,0.4394221901893616,1
+2476,White Oleander,9859,A Mother's Reckoning: Living in the Aftermath of Tragedy,0.43037867546081543,1
+2476,White Oleander,8579,Orphan Train,0.4061061143875122,1
+2452,House of Sand and Fog,6874,Mornings in Jenin,0.35550016164779663,0
+2452,House of Sand and Fog,633,Reading Lolita in Tehran,0.3538500666618347,0
+2452,House of Sand and Fog,6334,يوتوبيا,0.3195982575416565,0
+4118,It's All Gone Pete Tong,441,Complete Works of Oscar Wilde,0.31247270107269287,0
+4118,It's All Gone Pete Tong,3355,The Importance of Being Earnest and Other Plays,0.2864353060722351,0
+4118,It's All Gone Pete Tong,442,An Ideal Husband,0.2830842137336731,0
+500,2 Fast 2 Furious,5376,"Knots and Crosses (Inspector Rebus, #1)",0.3539074659347534,0
+500,2 Fast 2 Furious,7773,"Cross My Heart (Cross My Heart, #1)",0.2599642276763916,0
+500,2 Fast 2 Furious,9760,"The Crossing (Harry Bosch, #20; Mickey Haller, #7; Harry Bosch Universe, #25)",0.2589070498943329,0
+2231,Strange Wilderness,5114,Miracle in the Andes,0.3930111825466156,0
+2231,Strange Wilderness,5020,Alive: The Story of the Andes Survivors,0.35909387469291687,0
+2231,Strange Wilderness,4457,Gorillas in the Mist,0.35285913944244385,0
+2639,District B13,8210,Ghettoside: A True Story of Murder in America,0.40356510877609253,1
+2639,District B13,5189,"Protect and Defend (Mitch Rapp, #10)",0.352954626083374,0
+2639,District B13,7780,"Kill Shot (Mitch Rapp, #2)",0.34618568420410156,0
+2229,Machete Kills,9141,"No Place to Hide: Edward Snowden, the NSA, and the U.S. Surveillance State",0.3437051773071289,0
+2229,Machete Kills,2981,"Ghost Wars: The Secret History of the CIA, Afghanistan, and bin Laden from the Soviet Invasion to September 10, 2001",0.32176852226257324,0
+2229,Machete Kills,4947,Flight of the Intruder (Jake Grafton #1),0.28713762760162354,0
+3664,We Have Your Husband,3555,The Story of a Shipwrecked Sailor,0.43682849407196045,1
+3664,We Have Your Husband,9197,The Book of Unknown Americans,0.41820400953292847,1
+3664,We Have Your Husband,332,Marina,0.4107806086540222,1
+788,Deadpool,201,The Canterbury Tales,0.2909270226955414,0
+788,Deadpool,1727,Season of Mists (The Sandman #4),0.290912389755249,0
+788,Deadpool,1064,"Skin Tight (Mick Stranahan, #1)",0.2900253236293793,0
+2501,Hachi: A Dog's Tale,7141,"A Dog's Purpose (A Dog's Purpose, #1)",0.39178991317749023,0
+2501,Hachi: A Dog's Tale,6928,One Good Dog,0.3884892463684082,0
+2501,Hachi: A Dog's Tale,134,The Curious Incident of the Dog in the Night-Time,0.3878669738769531,0
+103,The Sorcerer's Apprentice,5523,"The Angel of Darkness (Dr. Laszlo Kreizler, #2)",0.40241891145706177,1
+103,The Sorcerer's Apprentice,4494,"Siege of Darkness (Forgotten Realms: Legacy of the Drow, #3; Legend of Drizzt, #9)",0.3806036710739136,0
+103,The Sorcerer's Apprentice,404,"Wizard and Glass (The Dark Tower, #4)",0.3791671693325043,0
+4485,Escape from Tomorrow,2145,"The Amazing Maurice and His Educated Rodents (Discworld, #28)",0.4001705050468445,1
+4485,Escape from Tomorrow,4258,The Complete Adventures of Peter Rabbit,0.39561015367507935,0
+4485,Escape from Tomorrow,8556,How to Tell If Your Cat Is Plotting to Kill You,0.39355921745300293,0
+3793,Mondays in the Sun,191,Blindness,0.301532506942749,0
+3793,Mondays in the Sun,9095,Ripper,0.30056294798851013,0
+3793,Mondays in the Sun,230,The Stories of Eva Luna,0.2893402576446533,0
+2963,The Last Days on Mars,2859,An Anthropologist on Mars: Seven Paradoxical Tales,0.3402671813964844,0
+2963,The Last Days on Mars,7049,Packing for Mars: The Curious Science of Life in the Void,0.31137216091156006,0
+2963,The Last Days on Mars,165,Darwin's Dangerous Idea: Evolution and the Meanings of Life,0.30054429173469543,0
+658,Death Race,8210,Ghettoside: A True Story of Murder in America,0.36518555879592896,0
+658,Death Race,5937,Gang Leader for a Day: A Rogue Sociologist Takes to the Streets,0.3506332337856293,0
+658,Death Race,2107,"Plum Island (John Corey, #1)",0.3438558578491211,0
+943,Firewall,4842,"Eye of the Storm (Sean Dillon, #1)",0.4360039234161377,1
+943,Firewall,8619,"Threat Vector (Jack Ryan Universe, #15)",0.4161551594734192,1
+943,Firewall,2041,"The Poet (Jack McEvoy, #1; Harry Bosch Universe, #5)",0.41533249616622925,1
+3438,The Terminator,6430,"Daemon (Daemon, #1)",0.346842885017395,0
+3438,The Terminator,1416,Accelerando (Singularity),0.3444012999534607,0
+3438,The Terminator,9297,"Mitosis (The Reckoners, #1.5)",0.3412368595600128,0
+3282,Down in the Valley,417,"The Deep End of the Ocean (Cappadora Family, #1)",0.365830659866333,0
+3282,Down in the Valley,8669,"Fallen Too Far (Rosemary Beach, #1; Too Far, #1)",0.36372125148773193,0
+3282,Down in the Valley,3900,Divine Secrets of the Ya-Ya Sisterhood,0.3596124053001404,0
+3172,Boiler Room,4070,All Marketers Are Liars: The Power of Telling Authentic Stories in a Low-Trust World,0.3348870277404785,0
+3172,Boiler Room,872,When Genius Failed: The Rise and Fall of Long-Term Capital Management,0.3179895281791687,0
+3172,Boiler Room,2951,"Rich Dad, Poor Dad",0.3177604079246521,0
+2248,Bon voyage,3775,No Exit,0.3874932825565338,0
+2248,Bon voyage,814,The Wall,0.3704794943332672,0
+2248,Bon voyage,4819,Almost French: Love and a New Life in Paris,0.36821991205215454,0
+4690,Archaeology of a Woman,7571,Turn of Mind,0.4612569808959961,1
+4690,Archaeology of a Woman,2069,"The Secret of the Old Clock (Nancy Drew, #1)",0.45719945430755615,1
+4690,Archaeology of a Woman,9470,"The Cinderella Murder (Under Suspicion, #2)",0.428348183631897,1
+3882,Animal House,2027,Shattered,0.2810969352722168,0
+3882,Animal House,5045,Straight Man,0.2763507664203644,0
+3882,Animal House,486,Six Easy Pieces: Essentials of Physics By Its Most Brilliant Teacher,0.27231571078300476,0
+2487,Duets,8681,Open Road Summer,0.29300186038017273,0
+2487,Duets,5108,The Odd Couple,0.29161325097084045,0
+2487,Duets,4067,Noises Off,0.2892094850540161,0
+3444,Platoon,5255,"Generation Kill: Devil Dogs, Iceman, Captain America, and the New Face of American War",0.38802891969680786,0
+3444,Platoon,2361,We Were Soldiers Once... and Young: Ia Drang - The Battle that Changed the War in Vietnam,0.38108280301094055,0
+3444,Platoon,8011,Drift: The Unmooring of American Military Power,0.36713290214538574,0
+1474,I Dreamed of Africa,3467,The Passion of Artemisia,0.3509485423564911,0
+1474,I Dreamed of Africa,842,Baudolino,0.34076112508773804,0
+1474,I Dreamed of Africa,840,History of Beauty,0.33734193444252014,0
+2078,Swing Vote,3262,"The Path to Power (The Years of Lyndon Johnson, #1)",0.31271833181381226,0
+2078,Swing Vote,6876,"Game Change: Obama and the Clintons, McCain and Palin, and the Race of a Lifetime",0.3087048828601837,0
+2078,Swing Vote,4328,"Means of Ascent (The Years of Lyndon Johnson, #2)",0.2925822138786316,0
+1910,Hot Rod,9086,"Worth the Fight (MMA Fighter, #1)",0.2660277485847473,0
+1910,Hot Rod,9460,"Dominic (Slater Brothers, #1)",0.25121402740478516,0
+1910,Hot Rod,8518,"Seducing Cinderella (Fighting for Love, #1)",0.24056929349899292,0
+1524,George and the Dragon,2935,"Enemy of God (The Warlord Chronicles, #2)",0.3861871361732483,0
+1524,George and the Dragon,2933,"The Winter King (The Warlord Chronicles, #1)",0.37453824281692505,0
+1524,George and the Dragon,2934,"Excalibur (The Warlord Chronicles, #3)",0.3629186451435089,0
+2411,The Best Man Holiday,9607,"The Friend Zone (Game On, #2)",0.44037842750549316,1
+2411,The Best Man Holiday,5450,"Mates, Dates, and Inflatable Bras (Mates, Dates, #1)",0.4393758177757263,1
+2411,The Best Man Holiday,9752,"The Deal (Off-Campus, #1)",0.42599916458129883,1
+2167,Nerve,88,The Game: Penetrating the Secret Society of Pickup Artists,0.3534403443336487,0
+2167,Nerve,2578,Games People Play,0.352329283952713,0
+2167,Nerve,3112,"The Killing Game (Eve Duncan, #2)",0.3174622058868408,0
+3502,Lake of Fire,6622,Half the Sky: Turning Oppression into Opportunity for Women Worldwide,0.3670766353607178,0
+3502,Lake of Fire,4149,What to Expect When You're Expecting,0.3508986830711365,0
+3502,Lake of Fire,3865,The Happiest Baby on the Block: The New Way to Calm Crying and Help Your Newborn Baby Sleep Longer,0.3323631286621094,0
+568,xXx,4693,Ice Hunt,0.32480594515800476,0
+568,xXx,5683,Wemberly Worried,0.32357412576675415,0
+568,xXx,8509,"David and Goliath: Underdogs, Misfits, and the Art of Battling Giants",0.3182857036590576,0
+3634,The Machinist,6430,"Daemon (Daemon, #1)",0.3052758276462555,0
+3634,The Machinist,1863,"Woken Furies (Takeshi Kovacs, #3)",0.28621846437454224,0
+3634,The Machinist,2477,"The Reality Dysfunction (Night's Dawn, #1)",0.2853690981864929,0
+2019,The Santa Clause,5850,Rudolph the Red-Nosed Reindeer,0.4454187750816345,1
+2019,The Santa Clause,447,A Christmas Carol and Other Christmas Writings,0.42783820629119873,1
+2019,The Santa Clause,6295,The Christmas Sweater,0.39001375436782837,0
+2857,The Postman Always Rings Twice,2715,Double Indemnity,0.34794703125953674,0
+2857,The Postman Always Rings Twice,282,Cover Her Face (Adam Dalgliesh #1),0.3316366374492645,0
+2857,The Postman Always Rings Twice,4727,The Killer Inside Me,0.31757691502571106,0
+3578,The Man from Snowy River,1560,A Simple Plan,0.33176422119140625,0
+3578,The Man from Snowy River,9746,"Stranger Child (DCI Tom Douglas, #4)",0.331171452999115,0
+3578,The Man from Snowy River,958,Boy's Life,0.30796629190444946,0
+1915,The Conspirator,2395,Pretend You Don't See Her,0.36694127321243286,0
+1915,The Conspirator,8566,Mrs. Lincoln's Dressmaker,0.3650663495063782,0
+1915,The Conspirator,7730,Killing Lincoln: The Shocking Assassination that Changed America Forever,0.3422457277774811,0
+704,Antz,8518,"Seducing Cinderella (Fighting for Love, #1)",0.29040855169296265,0
+704,Antz,8811,"Kings Rising (Captive Prince, #3)",0.2766531705856323,0
+704,Antz,8810,"Captive Prince: Volume Two (Captive Prince, #2)",0.27512338757514954,0
+2098,Tammy,2261,I Don't Know How She Does It,0.36525726318359375,0
+2098,Tammy,9685,My Grandmother Asked Me to Tell You She's Sorry,0.3510037660598755,0
+2098,Tammy,7318,Clara and Mr. Tiffany,0.3459530472755432,0
+2945,What's Eating Gilbert Grape,5768,The Relatives Came,0.3174405097961426,0
+2945,What's Eating Gilbert Grape,6912,Pete the Cat: I Love My White Shoes,0.3048262298107147,0
+2945,What's Eating Gilbert Grape,3765,My Brother Sam Is Dead,0.3041970729827881,0
+1297,Grudge Match,9086,"Worth the Fight (MMA Fighter, #1)",0.39613598585128784,0
+1297,Grudge Match,8518,"Seducing Cinderella (Fighting for Love, #1)",0.3451501429080963,0
+1297,Grudge Match,8817,"Fighting for Flight (Fighting, #1)",0.3281552791595459,0
+1426,Valiant,3194,"Birds of a Feather (Maisie Dobbs, #2)",0.3632812201976776,0
+1426,Valiant,4267,The Pigeon Finds a Hot Dog!,0.3568192720413208,0
+1426,Valiant,975,Rabbit at Rest (Rabbit Angstrom #4),0.33986160159111023,0
+4564,Poultrygeist: Night of the Chicken Dead,5950,How to Cook Everything Vegetarian: Simple Meatless Recipes for Great Food,0.29320278763771057,0
+4564,Poultrygeist: Night of the Chicken Dead,5799,Veganomicon: The Ultimate Vegan Cookbook,0.2900354862213135,0
+4564,Poultrygeist: Night of the Chicken Dead,2869,Cod: A Biography of the Fish that Changed the World,0.2729208469390869,0
+672,Perfume: The Story of a Murderer,39,Perfume: The Story of a Murderer,0.33991745114326477,0
+672,Perfume: The Story of a Murderer,7429,La Carte et le territoire,0.31647127866744995,0
+672,Perfume: The Story of a Murderer,4293,Les Fleurs du Mal,0.3162335753440857,0
+2025,The Hundred-Foot Journey,6720,"Lunch in Paris: A Love Story, with Recipes",0.4840971529483795,1
+2025,The Hundred-Foot Journey,6564,The Sweet Life in Paris: Delicious Adventures in the World's Most Glorious - and Perplexing - City,0.4665305018424988,1
+2025,The Hundred-Foot Journey,2724,Barefoot in Paris,0.45919907093048096,1
+3231,Pulp Fiction,5348,Jesus' Son,0.4290226101875305,1
+3231,Pulp Fiction,6275,Beat the Reaper (Peter Brown #1),0.41038334369659424,1
+3231,Pulp Fiction,4054,Wiseguy,0.4044231176376343,1
+3356,The Devil's Rejects,4789,"A Morbid Taste for Bones (Chronicles of Brother Cadfael, #1)",0.34703123569488525,0
+3356,The Devil's Rejects,9009,"The Dead in Their Vaulted Arches (Flavia de Luce, #6)",0.3279687166213989,0
+3356,The Devil's Rejects,3787,"Welcome to Dead House (Goosebumps, #1)",0.32180577516555786,0
+2230,Willard,5013,"The Rats (Rats, #1)",0.33895444869995117,0
+2230,Willard,8027,"The Madman’s Daughter (The Madman’s Daughter, #1)",0.2632111608982086,0
+2230,Willard,797,"Mrs. Frisby and the Rats of NIMH (Rats of NIMH, #1)",0.25941216945648193,0
+4234,Mooz-lum,3640,The Looming Tower: Al-Qaeda and the Road to 9/11,0.3955421447753906,0
+4234,Mooz-lum,194,The Prophet,0.3864251971244812,0
+4234,Mooz-lum,5262,الرحيق المختوم,0.3671954870223999,0
+3002,Nick and Norah's Infinite Playlist,9607,"The Friend Zone (Game On, #2)",0.4481653869152069,1
+3002,Nick and Norah's Infinite Playlist,6786,"Rock Chick (Rock Chick, #1)",0.4418796896934509,1
+3002,Nick and Norah's Infinite Playlist,9049,"Friend-Zoned (Friend-Zoned, #1)",0.4290873110294342,1
+2317,Star Trek III: The Search for Spock,3653,"Dauntless (The Lost Fleet, #1)",0.24082553386688232,0
+2317,Star Trek III: The Search for Spock,6494,"Relentless (The Lost Fleet, #5)",0.22222304344177246,0
+2317,Star Trek III: The Search for Spock,5242,The Endurance: Shackleton's Legendary Antarctic Expedition,0.21770232915878296,0
+1481,Thunder and the House of Magic,8556,How to Tell If Your Cat Is Plotting to Kill You,0.45354771614074707,1
+1481,Thunder and the House of Magic,7868,"Alice in Zombieland (White Rabbit Chronicles, #1)",0.3997806906700134,0
+1481,Thunder and the House of Magic,5029,Old Possum's Book of Practical Cats,0.39592838287353516,0
+4759,Smiling Fish & Goat On Fire,4182,Beautiful Boy: A Father's Journey Through His Son's Addiction,0.36374011635780334,0
+4759,Smiling Fish & Goat On Fire,6384,"Smooth Talking Stranger (Travises, #3)",0.3569416105747223,0
+4759,Smiling Fish & Goat On Fire,6517,Dog on It (A Chet and Bernie Mystery #1),0.3543475568294525,0
+2478,Drowning Mona,5982,The Suspicions of Mr. Whicher: A Shocking Murder and the Undoing of a Great Victorian Detective,0.37941867113113403,0
+2478,Drowning Mona,5601,"The Interpretation of Murder (Freud, #1)",0.36453938484191895,0
+2478,Drowning Mona,4687,Sleepers,0.3643034100532532,0
+3247,Modern Problems,9910,The Baller: A Down and Dirty Football Novel,0.2695813477039337,0
+3247,Modern Problems,1234,Absolute Power,0.26941314339637756,0
+3247,Modern Problems,5388,Soon I Will Be Invincible,0.2661508619785309,0
+1919,Fly Me to the Moon,8488,"The Marriage Mistake (Marriage to a Billionaire, #3)",0.43026483058929443,1
+1919,Fly Me to the Moon,8654,"The Unwanted Wife (Unwanted, #1)",0.41664886474609375,1
+1919,Fly Me to the Moon,5668,The Seven Principles for Making Marriage Work: A Practical Guide from the Country's Foremost Relationship Expert,0.40953904390335083,1
+4335,Taxi Driver,8042,The Psychopath Test: A Journey Through the Madness Industry,0.392292320728302,0
+4335,Taxi Driver,322,Dispatches,0.3873106837272644,0
+4335,Taxi Driver,4901,The Lucifer Effect: Understanding How Good People Turn Evil,0.3814687728881836,0
+553,The Kingdom,3640,The Looming Tower: Al-Qaeda and the Road to 9/11,0.3811115026473999,0
+553,The Kingdom,2981,"Ghost Wars: The Secret History of the CIA, Afghanistan, and bin Laden from the Soviet Invasion to September 10, 2001",0.35454005002975464,0
+553,The Kingdom,9141,"No Place to Hide: Edward Snowden, the NSA, and the U.S. Surveillance State",0.2786909341812134,0
+2947,Vera Drake,5559,On Death and Dying,0.3655589520931244,0
+2947,Vera Drake,6622,Half the Sky: Turning Oppression into Opportunity for Women Worldwide,0.34890836477279663,0
+2947,Vera Drake,3647,The Life of Elizabeth I,0.3445740342140198,0
+3589,The Egyptian,5080,"River God (Ancient Egypt, #1)",0.38820791244506836,0
+3589,The Egyptian,2212,"Warlock (Ancient Egypt, #3)",0.3734988868236542,0
+3589,The Egyptian,5048,"The Seventh Scroll (Ancient Egypt, #2)",0.3694060444831848,0
+101,X-Men: First Class,3535,X-Men: The Dark Phoenix Saga,0.42370790243148804,1
+101,X-Men: First Class,1996,"Astonishing X-Men, Volume 1: Gifted",0.4005211591720581,1
+101,X-Men: First Class,1995,"Astonishing X-Men, Volume 2: Dangerous",0.37869974970817566,0
+1222,Sex Tape,9304,"Play (Stage Dive, #2)",0.35719895362854004,0
+1222,Sex Tape,5331,Annie on My Mind,0.3565886616706848,0
+1222,Sex Tape,9819,"Dirty (Dive Bar, #1)",0.34460604190826416,0
+677,Clear and Present Danger,8619,"Threat Vector (Jack Ryan Universe, #15)",0.5150768160820007,1
+677,Clear and Present Danger,2059,"Patriot Games (Jack Ryan Universe, #2)",0.5031973123550415,1
+677,Clear and Present Danger,7263,"Dead or Alive (Jack Ryan Universe, #13)",0.4983713626861572,1
+1263,Big Miracle,1408,In the Heart of the Sea: The Tragedy of the Whaleship Essex,0.4585990309715271,1
+1263,Big Miracle,3613,The Perfect Storm: A True Story of Men Against the Sea,0.42782819271087646,1
+1263,Big Miracle,9425,In the Kingdom of Ice: The Grand and Terrible Polar Voyage of the USS Jeannette,0.41229408979415894,1
+4349,Sands of Iwo Jima,9465,"Cage (Corps Security, #2)",0.3494912385940552,0
+4349,Sands of Iwo Jima,5189,"Protect and Defend (Mitch Rapp, #10)",0.3242611289024353,0
+4349,Sands of Iwo Jima,1772,"Act of Treason (Mitch Rapp, #9)",0.3049852252006531,0
+4511,High Road,5615,Smack,0.41083648800849915,1
+4511,High Road,3968,"Ice Station (Shane Schofield, #1)",0.38242217898368835,0
+4511,High Road,5746,"Separation of Power (Mitch Rapp, #5)",0.3766600489616394,0
+1470,Stolen,7797,"The Hidden Child (Patrik Hedström, #5)",0.38007301092147827,0
+1470,Stolen,7220,"Girl, Stolen (Girl, Stolen #1)",0.3692513108253479,0
+1470,Stolen,8183,"Stolen Prey (Lucas Davenport, #22)",0.36674147844314575,0
+3610,A Farewell to Arms,3820,"The Pianist: The Extraordinary Story of One Man's Survival in Warsaw, 1939–45",0.38355427980422974,0
+3610,A Farewell to Arms,2995,Scarlett,0.3448042571544647,0
+3610,A Farewell to Arms,940,The Guns of August,0.3274638056755066,0
+3649,Tycoon,5839,"Tunnels (Tunnels, #1)",0.31579214334487915,0
+3649,Tycoon,5544,The Story of Ferdinand,0.31540966033935547,0
+3649,Tycoon,153,Eiger Dreams: Ventures Among Men and Mountains,0.29703837633132935,0
+3015,Sparkle,6408,Talent is Overrated: What Really Separates World-Class Performers from Everybody Else,0.35747480392456055,0
+3015,Sparkle,6528,"The Talent Code: Unlocking the Secret of Skill in Sports, Art, Music, Math, and Just About Everything Else",0.33139297366142273,0
+3015,Sparkle,8150,"Spark (Elemental, #2)",0.31399446725845337,0
+4783,All Superheroes Must Die,5745,"Faceless Killers (Kurt Wallander, #1)",0.406901478767395,1
+4783,All Superheroes Must Die,9621,"Radiant Angel (John Corey, #7)",0.4054114818572998,1
+4783,All Superheroes Must Die,8513,"Suspect (Scott James & Maggie, #1)",0.39626672863960266,0
+4586,Show Me,4163,"The Problem Child (The Sisters Grimm, #3)",0.428040474653244,1
+4586,Show Me,4707,"The Unusual Suspects (The Sisters Grimm, #2)",0.420390248298645,1
+4586,Show Me,8245,Liar & Spy,0.4125673174858093,1
+1422,The X Files: I Want to Believe,8764,"The Heist (Fox and O'Hare, #1)",0.34928202629089355,0
+1422,The X Files: I Want to Believe,3535,X-Men: The Dark Phoenix Saga,0.3435533940792084,0
+1422,The X Files: I Want to Believe,1995,"Astonishing X-Men, Volume 2: Dangerous",0.34114107489585876,0
+4217,Kissing Jessica Stein,4411,Three Junes,0.45808735489845276,1
+4217,Kissing Jessica Stein,1797,Close Range,0.45072996616363525,1
+4217,Kissing Jessica Stein,4775,Luna,0.43752986192703247,1
+718,Deep Blue Sea,3801,Jaws,0.3208027482032776,0
+718,Deep Blue Sea,1408,In the Heart of the Sea: The Tragedy of the Whaleship Essex,0.3124847710132599,0
+718,Deep Blue Sea,3565,"Meg (MEG, #1)",0.3099305033683777,0
+3905,The Apartment,4898,The Greatest Salesman in the World,0.3042265474796295,0
+3905,The Apartment,2042,Chasing the Dime,0.29954102635383606,0
+3905,The Apartment,736,"I Hope They Serve Beer in Hell (Tucker Max, #1)",0.2865050435066223,0
+1053,Galaxy Quest,8199,"These Broken Stars (Starbound, #1)",0.4624566435813904,1
+1053,Galaxy Quest,2158,Alien,0.44624555110931396,1
+1053,Galaxy Quest,4827,The Stars My Destination,0.4437750577926636,1
+2137,Texas Chainsaw 3D,8979,Empty Mansions: The Mysterious Life of Huguette Clark and the Spending of a Great American Fortune,0.4330444931983948,1
+2137,Texas Chainsaw 3D,5117,Audrey Rose,0.4250949025154114,1
+2137,Texas Chainsaw 3D,5455,A Countess Below Stairs,0.39667025208473206,0
+4553,Fight to the Finish,9086,"Worth the Fight (MMA Fighter, #1)",0.5386448502540588,1
+4553,Fight to the Finish,8817,"Fighting for Flight (Fighting, #1)",0.4796832799911499,1
+4553,Fight to the Finish,8518,"Seducing Cinderella (Fighting for Love, #1)",0.464317262172699,1
+3087,The Iceman,605,Crime and Punishment,0.3939492702484131,0
+3087,The Iceman,4054,Wiseguy,0.39329349994659424,0
+3087,The Iceman,4687,Sleepers,0.3725987672805786,0
+3965,Point Blank,2269,"One Step Behind  (Kurt Wallander, #7)",0.34830689430236816,0
+3965,Point Blank,6869,"The Crossing Places (Ruth Galloway, #1)",0.3470301330089569,0
+3965,Point Blank,4800,"Kidnapped (David Balfour, #1)",0.32918328046798706,0
+3848,The Masked Saint,3533,"Preacher, Volume 9: Alamo",0.39144617319107056,0
+3848,The Masked Saint,3419,"Preacher, Volume 4: Ancient History",0.3896869421005249,0
+3848,The Masked Saint,3532,"Preacher, Volume 6: War in the Sun",0.38571175932884216,0
+1916,Lords of Dogtown,3801,Jaws,0.3545248508453369,0
+1916,Lords of Dogtown,882,"The Great Shark Hunt: Strange Tales from a Strange Time (The Gonzo Papers, #1)",0.2842089831829071,0
+1916,Lords of Dogtown,1567,The Godfather,0.28156110644340515,0
+2902,10 Days in a Madhouse,4228,Crocodile on the Sandbank (Amelia Peabody #1),0.4095923900604248,1
+2902,10 Days in a Madhouse,4134,She Said Yes: The Unlikely Martyrdom of Cassie Bernall,0.4079768657684326,1
+2902,10 Days in a Madhouse,2764,"Inner Harbor (Chesapeake Bay Saga, #3)",0.4006245732307434,1
+1617,9,1794,"The Remnant (Left Behind, #10)",0.3637339472770691,0
+1617,9,1792,"Desecration (Left Behind, #9)",0.36044666171073914,0
+1617,9,3253,"The Indwelling (Left Behind, #7)",0.35967928171157837,0
+574,S.W.A.T.,8183,"Stolen Prey (Lucas Davenport, #22)",0.38207918405532837,0
+574,S.W.A.T.,9760,"The Crossing (Harry Bosch, #20; Mickey Haller, #7; Harry Bosch Universe, #25)",0.37435203790664673,0
+574,S.W.A.T.,6802,"The First Rule (Elvis Cole, #13; Joe Pike, #2)",0.36666297912597656,0
+2348,127 Hours,4104,Between a Rock and a Hard Place,0.3938371539115906,0
+2348,127 Hours,5739,The Climb: Tragic Ambitions on Everest,0.37762731313705444,0
+2348,127 Hours,1453,Touching the Void: The True Story of One Man's Miraculous Survival,0.37548136711120605,0
+4363,Walking and Talking,4037,Amelia Bedelia and the Surprise Shower,0.4056321084499359,1
+4363,Walking and Talking,4228,Crocodile on the Sandbank (Amelia Peabody #1),0.3916105628013611,0
+4363,Walking and Talking,9374,Archer's Voice,0.38252490758895874,0
+2041,"Hail, Caesar!",5108,The Odd Couple,0.2537577152252197,0
+2041,"Hail, Caesar!",5426,The Basketball Diaries,0.2475857138633728,0
+2041,"Hail, Caesar!",4171,Arsenic and Old Lace,0.24239316582679749,0
+1308,Enough,589,Tuesdays with Morrie,0.4108858108520508,1
+1308,Enough,2911,Sybil: The Classic True Story of a Woman Possessed by Sixteen Personalities,0.3975568115711212,0
+1308,Enough,2206,The Secret Life of Bees,0.393462210893631,0
+3277,When Did You Last See Your Father?,4182,Beautiful Boy: A Father's Journey Through His Son's Addiction,0.40933364629745483,1
+3277,When Did You Last See Your Father?,3280,Dreams from My Father: A Story of Race and Inheritance,0.40823593735694885,1
+3277,When Did You Last See Your Father?,203,The Lost Boy (Dave Pelzer #2),0.4050911068916321,1
+4752,The Call of Cthulhu,5322,The Hero With a Thousand Faces,0.3837662935256958,0
+4752,The Call of Cthulhu,5898,Necronomicon: The Best Weird Tales,0.37940195202827454,0
+4752,The Call of Cthulhu,4066,The Call of Cthulhu and Other Weird Stories,0.37903928756713867,0
+2355,"I Love You, Beth Cooper",1745,Nick & Norah's Infinite Playlist,0.3512914478778839,0
+2355,"I Love You, Beth Cooper",6341,"At Grave's End (Night Huntress, #3)",0.3438092768192291,0
+2355,"I Love You, Beth Cooper",9149,"Jake Undone (Jake, #1)",0.3407096266746521,0
+617,Agora,6666,Cleopatra's Daughter,0.42910656332969666,1
+617,Agora,826,The Memoirs of Cleopatra,0.4266146719455719,1
+617,Agora,3554,Antony and Cleopatra,0.42604711651802063,1
+1792,Pain & Gain,8587,"The Secret Race: Inside the Hidden World of the Tour de France: Doping, Cover-ups, and Winning at All Costs",0.29987064003944397,0
+1792,Pain & Gain,8946,"Taking Shots (Assassins, #1)",0.2922646999359131,0
+1792,Pain & Gain,9369,Flash Boys: A Wall Street Revolt,0.2686149477958679,0
+2568,The Craft,4882,"The Worst Witch (Worst Witch, #1)",0.4821248948574066,1
+2568,The Craft,7418,"The Witch's Daughter (The Witch's Daughter, #1)",0.4787846803665161,1
+2568,The Craft,7287,"Witches of East End (The Beauchamp Family, #1)",0.4588879942893982,1
+1970,Zack and Miri Make a Porno,8305,"The Marriage Bargain (Marriage to a Billionaire, #1)",0.3712678551673889,0
+1970,Zack and Miri Make a Porno,8488,"The Marriage Mistake (Marriage to a Billionaire, #3)",0.3690226674079895,0
+1970,Zack and Miri Make a Porno,9049,"Friend-Zoned (Friend-Zoned, #1)",0.3408307135105133,0
+2043,Homefront,2951,"Rich Dad, Poor Dad",0.35519325733184814,0
+2043,Homefront,4687,Sleepers,0.30686530470848083,0
+2043,Homefront,4767,Getting to Yes: Negotiating an Agreement Without Giving In,0.3053719699382782,0
+585,War Horse,5574,"War Horse (War Horse, #1)",0.4279332160949707,1
+585,War Horse,1544,"The Winds of War (The Henry Family, #1)",0.3311326503753662,0
+585,War Horse,2357,"Band of Brothers: E Company, 506th Regiment, 101st Airborne from Normandy to Hitler's Eagle's Nest",0.32747411727905273,0
+1399,In Time,1368,The Time Machine/The Invisible Man,0.36584246158599854,0
+1399,In Time,189,The Time Machine,0.3575625717639923,0
+1399,In Time,8420,The Time Keeper,0.34505388140678406,0
+3487,Novocaine,5745,"Faceless Killers (Kurt Wallander, #1)",0.3357674777507782,0
+3487,Novocaine,1089,"Kiss the Girls (Alex Cross, #2)",0.3357085883617401,0
+3487,Novocaine,6602,"Evil at Heart (Archie Sheridan & Gretchen Lowell, #3)",0.334998220205307,0
+2022,The Bridges of Madison County,1127,"Julie and Julia: 365 Days, 524 Recipes, 1 Tiny Apartment Kitchen: How One Girl Risked Her Marriage, Her Job, and Her Sanity to Master the Art of Living",0.3723044991493225,0
+2022,The Bridges of Madison County,652,The Metamorphosis and Other Stories,0.3671652376651764,0
+2022,The Bridges of Madison County,1088,"Honeymoon (Honeymoon, #1)",0.3545878529548645,0
+621,The Finest Hours,1408,In the Heart of the Sea: The Tragedy of the Whaleship Essex,0.340890496969223,0
+621,The Finest Hours,5242,The Endurance: Shackleton's Legendary Antarctic Expedition,0.31312239170074463,0
+621,The Finest Hours,3613,The Perfect Storm: A True Story of Men Against the Sea,0.3114011883735657,0
+2027,I Am Sam,364,The Drama of the Gifted Child: The Search for the True Self,0.4614037871360779,1
+2027,I Am Sam,331,Sickened: The Memoir of a Munchausen by Proxy Childhood,0.4465562105178833,1
+2027,I Am Sam,6661,After,0.4309254288673401,1
+2760,Dirty Work,5746,"Separation of Power (Mitch Rapp, #5)",0.38934171199798584,0
+2760,Dirty Work,6662,"Pursuit of Honor (Mitch Rapp, #12)",0.38625970482826233,0
+2760,Dirty Work,1772,"Act of Treason (Mitch Rapp, #9)",0.3824504017829895,0
+3524,Standing Ovation,9562,Girl in a Band,0.34871020913124084,0
+3524,Standing Ovation,471,"Girls in Pants: The Third Summer of the Sisterhood (Sisterhood, #3)",0.31582704186439514,0
+3524,Standing Ovation,9526,Roller Girl,0.31297552585601807,0
+3626,The Sweet Hereafter,9859,A Mother's Reckoning: Living in the Aftermath of Tragedy,0.36602461338043213,0
+3626,The Sweet Hereafter,4872,"Flat Stanley (Flat Stanley, #1)",0.33618488907814026,0
+3626,The Sweet Hereafter,6814,Mockingbird,0.33448326587677,0
+1583,Star Trek V: The Final Frontier,5122,"Showdown (Paradise, #1)",0.3031873106956482,0
+1583,Star Trek V: The Final Frontier,5121,"Red: The Heroic Rescue (The Circle, #2)",0.30150866508483887,0
+1583,Star Trek V: The Final Frontier,8244,Free Will,0.2898569107055664,0
+879,Law Abiding Citizen,449,The Innocent Man: Murder and Injustice in a Small Town,0.43367987871170044,1
+879,Law Abiding Citizen,9342,Just Mercy: A Story of Justice and Redemption,0.3797759413719177,0
+879,Law Abiding Citizen,3235,The Tenth Justice,0.3719680905342102,0
+2269,Butterfly on a Wheel,4800,"Kidnapped (David Balfour, #1)",0.3420031666755676,0
+2269,Butterfly on a Wheel,7750,"The Abduction (Theodore Boone, #2)",0.3419564664363861,0
+2269,Butterfly on a Wheel,364,The Drama of the Gifted Child: The Search for the True Self,0.34148722887039185,0
+4379,The Act of Killing,8210,Ghettoside: A True Story of Murder in America,0.4312279224395752,1
+4379,The Act of Killing,954,We Wish to Inform You That Tomorrow We Will Be Killed with Our Families,0.40755152702331543,1
+4379,The Act of Killing,2523,Requiem for a Dream,0.38772064447402954,0
+548,Snake Eyes,4054,Wiseguy,0.3292117714881897,0
+548,Snake Eyes,9460,"Dominic (Slater Brothers, #1)",0.3181712031364441,0
+548,Snake Eyes,5745,"Faceless Killers (Kurt Wallander, #1)",0.31584644317626953,0
+4368,Brigham City,449,The Innocent Man: Murder and Injustice in a Small Town,0.3691594898700714,0
+4368,Brigham City,7563,"The Preacher (Patrik Hedström, #2)",0.34336578845977783,0
+4368,Brigham City,6176,"Stolen Innocence: My Story of Growing Up in a Polygamous Sect, Becoming a Teenage Bride, and Breaking Free of Warren Jeffs",0.3299323618412018,0
+4449,Crying with Laughter,958,Boy's Life,0.3974906802177429,0
+4449,Crying with Laughter,1657,Filth,0.3559552729129791,0
+4449,Crying with Laughter,9232,"Cibola Burn (The Expanse, #4)",0.34929198026657104,0
+4089,Thirteen,3460,Perfect,0.48459628224372864,1
+4089,Thirteen,9145,Sisters,0.4671105146408081,1
+4089,Thirteen,5743,"Judy Moody (Judy Moody, # 1)",0.4614013731479645,1
+2890,The Life Before Her Eyes,9859,A Mother's Reckoning: Living in the Aftermath of Tragedy,0.4198172688484192,1
+2890,The Life Before Her Eyes,6826,"By the Time You Read This, I'll Be Dead",0.39958736300468445,0
+2890,The Life Before Her Eyes,6648,Hate List,0.3938455581665039,0
+3117,Motherhood,9859,A Mother's Reckoning: Living in the Aftermath of Tragedy,0.3777807354927063,0
+3117,Motherhood,9946,The Mothers,0.3756592273712158,0
+3117,Motherhood,7469,Battle Hymn of the Tiger Mother,0.36013978719711304,0
+3095,Illuminata,4171,Arsenic and Old Lace,0.4003971219062805,1
+3095,Illuminata,1258,Cyrano de Bergerac,0.39159077405929565,0
+3095,Illuminata,1007,Long Day's Journey Into Night,0.3869261145591736,0
+2206,Ghost Town,1581,Haunted,0.3481210470199585,0
+2206,Ghost Town,4247,"Unnatural Death (Lord Peter Wimsey, #3)",0.32829222083091736,0
+2206,Ghost Town,4246,"Clouds of Witness (Lord Peter Wimsey, #2)",0.3269820809364319,0
+2977,Stripes,2361,We Were Soldiers Once... and Young: Ia Drang - The Battle that Changed the War in Vietnam,0.3524087071418762,0
+2977,Stripes,2584,Citizen Soldiers: The U. S. Army from the Normandy Beaches to the Bulge to the Surrender of Germany,0.348410040140152,0
+2977,Stripes,4502,"The Ghost Brigades (Old Man's War, #2)",0.347859263420105,0
+99,The Fast and the Furious,8587,"The Secret Race: Inside the Hidden World of the Tour de France: Doping, Cover-ups, and Winning at All Costs",0.27769336104393005,0
+99,The Fast and the Furious,8946,"Taking Shots (Assassins, #1)",0.26630789041519165,0
+99,The Fast and the Furious,9460,"Dominic (Slater Brothers, #1)",0.2578977346420288,0
+3239,28 Days Later,1299,The Hot Zone: The Terrifying True Story of the Origins of the Ebola Virus,0.5211471319198608,1
+3239,28 Days Later,2181,"The Ghost Map: The Story of London's Most Terrifying Epidemic - and How It Changed Science, Cities, and the Modern World",0.44068145751953125,1
+3239,28 Days Later,1852,The Great Influenza: The Story of the Deadliest Pandemic in History,0.37189239263534546,0
+2131,Selena,3555,The Story of a Shipwrecked Sailor,0.3940143585205078,0
+2131,Selena,5905,Las batallas en el desierto,0.3874923586845398,0
+2131,Selena,1646,El coronel no tiene quien le escriba,0.383091539144516,0
+208,The 13th Warrior,7307,الطنطورية,0.3439377546310425,0
+208,The 13th Warrior,2368,The Haj,0.34031838178634644,0
+208,The 13th Warrior,2935,"Enemy of God (The Warlord Chronicles, #2)",0.33439406752586365,0
+4106,The Diary of a Teenage Girl,4731,Sleeping Beauty: a Little Golden Book (Disney Princess),0.4060613214969635,1
+4106,The Diary of a Teenage Girl,5976,"Sleeping Beauty (Disney Princess, 5)",0.3887433707714081,0
+4106,The Diary of a Teenage Girl,5569,Stellaluna,0.38790595531463623,0
+2473,Vicky Cristina Barcelona,2777,"Lucia, Lucia",0.3281519412994385,0
+2473,Vicky Cristina Barcelona,9817,The Last Painting of Sara de Vos,0.32740700244903564,0
+2473,Vicky Cristina Barcelona,4819,Almost French: Love and a New Life in Paris,0.3221992254257202,0
+4561,Bloody Sunday,911,Dubliners,0.31008094549179077,0
+4561,Bloody Sunday,1750,How the Irish Saved Civilization,0.282723069190979,0
+4561,Bloody Sunday,8909,"March: Book One (March, #1)",0.2765383720397949,0
+2215,Burnt,2073,Kitchen Confidential: Adventures in the Culinary Underbelly,0.306402325630188,0
+2215,Burnt,4613,"Catering to Nobody (A Goldy Bear Culinary Mystery, #1)",0.2974611818790436,0
+2215,Burnt,6392,The Private Patient (Adam Dalgliesh #14),0.2965339422225952,0
+840,Ronin,6022,"The Likeness (Dublin Murder Squad, #2)",0.4059492349624634,1
+840,Ronin,9406,"The Secret Place (Dublin Murder Squad, #5)",0.37222790718078613,0
+840,Ronin,7776,"Broken Harbour (Dublin Murder Squad, #4)",0.3705335855484009,0
+1501,Stigmata,4134,She Said Yes: The Unlikely Martyrdom of Cassie Bernall,0.41798460483551025,1
+1501,Stigmata,7563,"The Preacher (Patrik Hedström, #2)",0.3956783711910248,0
+1501,Stigmata,1781,Pope Joan,0.3744414448738098,0
+2797,The Boy in the Striped Pyjamas,2277,The Boy in the Striped Pajamas,0.3939474821090698,0
+2797,The Boy in the Striped Pyjamas,4773,Auschwitz: A Doctor's Eyewitness Account,0.3878110647201538,0
+2797,The Boy in the Striped Pyjamas,5766,Auschwitz,0.38776493072509766,0
+84,47 Ronin,9313,Colorless Tsukuru Tazaki and His Years of Pilgrimage,0.3643527626991272,0
+84,47 Ronin,1159,Snow Country,0.35015133023262024,0
+84,47 Ronin,1412,Underground: The Tokyo Gas Attack and the Japanese Psyche,0.3492908477783203,0
+1390,Underworld: Rise of the Lycans,7500,The Darkest Secret (Lords of the Underworld #7),0.4901972711086273,1
+1390,Underworld: Rise of the Lycans,6157,The Darkest Kiss (Lords of the Underworld #2),0.4627254009246826,1
+1390,Underworld: Rise of the Lycans,7098,The Darkest Lie (Lords of the Underworld #6),0.45533227920532227,1
+4442,"For a Good Time, Call...",9752,"The Deal (Off-Campus, #1)",0.3769475817680359,0
+4442,"For a Good Time, Call...",9906,"The Score (Off-Campus, #3)",0.37583979964256287,0
+4442,"For a Good Time, Call...",6568,Best Friends Forever,0.3614426255226135,0
+2083,The Best Little Whorehouse in Texas,3422,"Preacher, Volume 1: Gone to Texas",0.2754441201686859,0
+2083,The Best Little Whorehouse in Texas,4613,"Catering to Nobody (A Goldy Bear Culinary Mystery, #1)",0.2750557065010071,0
+2083,The Best Little Whorehouse in Texas,2909,The Lady & Sons Savannah Country Cookbook,0.27128997445106506,0
+2847,My Baby's Daddy,9276,"Until Lilly (Until, #3)",0.3923669457435608,0
+2847,My Baby's Daddy,4149,What to Expect When You're Expecting,0.38099056482315063,0
+2847,My Baby's Daddy,8711,"The Proposal (The Proposition, #2)",0.3600570261478424,0
+276,Harry Potter and the Chamber of Secrets,9995,"Hogwarts: An Incomplete and Unreliable Guide (Pottermore Presents, #3)",0.3714861273765564,0
+276,Harry Potter and the Chamber of Secrets,6105,Harry Potter and the Chamber of Secrets: Sheet Music for Flute with C.D,0.33745020627975464,0
+276,Harry Potter and the Chamber of Secrets,6,"Harry Potter Collection (Harry Potter, #1-6)",0.33513015508651733,0
+1488,Safe,7552,"The Silent Girl (Rizzoli & Isles, #9)",0.41470563411712646,1
+1488,Safe,6541,Shanghai Girls (Shanghai Girls #1),0.3891926407814026,0
+1488,Safe,6813,The Man from Beijing,0.385576456785202,0
+1347,A Man Apart,5707,"Gentle Rogue (Malory-Anderson Family, #3)",0.3224136531352997,0
+1347,A Man Apart,5546,Prisoner of My Desire,0.2998729944229126,0
+1347,A Man Apart,8617,"Affliction (Anita Blake, Vampire Hunter #22)",0.2931455373764038,0
+4582,What Happens in Vegas,8305,"The Marriage Bargain (Marriage to a Billionaire, #1)",0.41605159640312195,1
+4582,What Happens in Vegas,8488,"The Marriage Mistake (Marriage to a Billionaire, #3)",0.40582555532455444,1
+4582,What Happens in Vegas,8447,"The Marriage Trap (Marriage to a Billionaire, #2)",0.39989787340164185,0
+85,Captain America: The Winter Soldier,3971,"Area 7 (Shane Schofield, #2)",0.41130512952804565,1
+85,Captain America: The Winter Soldier,3968,"Ice Station (Shane Schofield, #1)",0.4070430099964142,1
+85,Captain America: The Winter Soldier,7068,"Foreign Influence (Scot Harvath, #9)",0.38584020733833313,0
+3782,Joe,1539,The Five Dysfunctions of a Team: A Leadership Fable,0.24186116456985474,0
+3782,Joe,2790,"A Child Called ""It"" (Dave Pelzer #1)",0.20907965302467346,0
+3782,Joe,203,The Lost Boy (Dave Pelzer #2),0.20659874379634857,0
+3618,UHF,5972,Predictably Irrational: The Hidden Forces That Shape Our Decisions,0.28741562366485596,0
+3618,UHF,6060,Sway: The Irresistible Pull of Irrational Behavior,0.2649391293525696,0
+3618,UHF,7176,The Upside of Irrationality: The Unexpected Benefits of Defying Logic at Work and at Home,0.2581495940685272,0
+575,Vanilla Sky,7474,Unbearable Lightness: A Story of Loss and Gain,0.38965028524398804,0
+575,Vanilla Sky,6097,"Such a Pretty Fat: One Narcissist's Quest to Discover If Her Life Makes Her Ass Look Big, or Why Pie Is Not the Answer",0.3767232298851013,0
+575,Vanilla Sky,191,Blindness,0.36198264360427856,0
+3450,Caddyshack,9473,Scoring Wilder,0.32661014795303345,0
+3450,Caddyshack,9933,"The Goal (Off-Campus, #4)",0.3210098147392273,0
+3450,Caddyshack,113,Moneyball: The Art of Winning an Unfair Game,0.3184618353843689,0
+383,Twister,1094,"When the Wind Blows (When the Wind Blows, #1)",0.32161659002304077,0
+383,Twister,3613,The Perfect Storm: A True Story of Men Against the Sea,0.32022714614868164,0
+383,Twister,3633,"The Lake House (When the Wind Blows, #2)",0.30439072847366333,0
+3696,Fast Times at Ridgemont High,5488,Rumble Fish,0.3908979296684265,0
+3696,Fast Times at Ridgemont High,3801,Jaws,0.3849942088127136,0
+3696,Fast Times at Ridgemont High,3633,"The Lake House (When the Wind Blows, #2)",0.37853866815567017,0
+4750,The Naked Ape,5046,Planet of the Apes,0.33445674180984497,0
+4750,The Naked Ape,2300,"Tarzan of the Apes (Tarzan, #1)",0.33442068099975586,0
+4750,The Naked Ape,4467,"Island of the Blue Dolphins (Island of the Blue Dolphins, #1)",0.28727686405181885,0
+3509,Emma,7035,"Married By Morning (The Hathaways, #4)",0.4058932662010193,1
+3509,Emma,6225,"Seduce Me at Sunrise (The Hathaways, #2)",0.37664783000946045,0
+3509,Emma,9978,"Royally Screwed (Royally, #1)",0.3667576313018799,0
+1936,Tank Girl,3517,"Swamp Thing, Vol. 1: Saga of the Swamp Thing",0.3910233974456787,0
+1936,Tank Girl,8234,"Wonder Woman, Volume 1: Blood",0.3593156933784485,0
+1936,Tank Girl,9603,"Ms. Marvel, Vol. 2: Generation Why",0.3352978825569153,0
+297,Blood Diamond,2700,Black Hawk Down,0.361622154712677,0
+297,Blood Diamond,2109,Up Country,0.34872889518737793,0
+297,Blood Diamond,7099,War,0.3158697485923767,0
+4327,Casablanca,5412,Season of Migration to the North,0.31544750928878784,0
+4327,Casablanca,4841,Nine Parts of Desire: The Hidden World of Islamic Women,0.30382466316223145,0
+4327,Casablanca,5558,Out of Africa,0.2870623469352722,0
+2372,Megaforce,5374,The Incredible Hulk: Planet Hulk,0.2547377943992615,0
+2372,Megaforce,1546,"Forever Peace (The Forever War, #2)",0.2219022810459137,0
+2372,Megaforce,5906,"Courageous (The Lost Fleet, #3)",0.21189454197883606,0
+1400,The Back-Up Plan,8712,"Forever My Girl (The Beaumont Series, #1)",0.3908103108406067,0
+1400,The Back-Up Plan,8659,"The Proposition (The Proposition, #1)",0.38188397884368896,0
+1400,The Back-Up Plan,8711,"The Proposal (The Proposition, #2)",0.3633101284503937,0
+576,Lady in the Water,3633,"The Lake House (When the Wind Blows, #2)",0.3253035545349121,0
+576,Lady in the Water,627,The Beach House,0.32389435172080994,0
+576,Lady in the Water,9466,"The Job (Fox and O'Hare, #3)",0.31077006459236145,0
+952,Beverly Hills Cop III,5709,Big Trouble,0.33358627557754517,0
+952,Beverly Hills Cop III,4770,Johnny Mnemonic,0.3276922106742859,0
+952,Beverly Hills Cop III,4054,Wiseguy,0.31867334246635437,0
+3383,Mother and Child,4149,What to Expect When You're Expecting,0.4891091585159302,1
+3383,Mother and Child,23,What to Expect the First Year (What to Expect),0.40550440549850464,1
+3383,Mother and Child,6898,"The Lost Child of Philomena Lee: A Mother, Her Son and a 50 Year Search",0.3994532823562622,0
+1444,The Young Victoria,411,"The Devil Wears Prada (The Devil Wears Prada, #1)",0.4545567035675049,1
+1444,The Young Victoria,8721,"Revenge Wears Prada: The Devil Returns (The Devil Wears Prada, #2)",0.35678064823150635,0
+1444,The Young Victoria,3608,"The Lion's Lady (Crown's Spies, #1)",0.34865593910217285,0
+1316,Precious,2965,Push,0.47509899735450745,1
+1316,Precious,6241,A Mercy,0.46488678455352783,1
+1316,Precious,2736,for colored girls who have considered suicide/when the rainbow is enuf,0.445597767829895,1
+3290,Pathology,4727,The Killer Inside Me,0.35192492604255676,0
+3290,Pathology,2048,"The Third Victim (Quincy & Rainie, #2)",0.33056652545928955,0
+3290,Pathology,3566,Zodiac,0.32661351561546326,0
+2040,The Glass House,4163,"The Problem Child (The Sisters Grimm, #3)",0.41913968324661255,1
+2040,The Glass House,3671,"Once Upon a Crime (The Sisters Grimm, #4)",0.3847167193889618,0
+2040,The Glass House,1782,"Glass Houses (The Morganville Vampires, #1)",0.38128983974456787,0
+3654,Fascination,5064,Presumed Innocent,0.42648619413375854,1
+3654,Fascination,1560,A Simple Plan,0.38362759351730347,0
+3654,Fascination,3609,"Heartbreaker (Buchanan-Renard, #1)",0.3813397288322449,0
+2948,The Guru,4674,Q & A,0.47273120284080505,1
+2948,The Guru,4897,India After Gandhi: The History of the World's Largest Democracy,0.47137197852134705,1
+2948,The Guru,323,Maximum City: Bombay Lost and Found,0.42899632453918457,1
+1084,The Glimmer Man,549,Portrait of a Killer: Jack the Ripper - Case Closed,0.4346175491809845,1
+1084,The Glimmer Man,1085,"Jack & Jill (Alex Cross, #3)",0.4141234755516052,1
+1084,The Glimmer Man,3849,"Birdman (Jack Caffery, #1)",0.41207319498062134,1
+3801,1776,4667,The Declaration of Independence and The Constitution of the United States,0.4632607102394104,1
+3801,1776,100,1776,0.4445950984954834,1
+3801,1776,3312,The Constitution of the United States of America,0.3778047561645508,0
+3109,Welcome to the Rileys,2391,Where Are the Children?,0.4347499907016754,1
+3109,Welcome to the Rileys,4033,Two Little Girls in Blue,0.4338493347167969,1
+3109,Welcome to the Rileys,2999,"Heaven, Texas (Chicago Stars, #2)",0.43342098593711853,1
+4693,She's Gotta Have It,1524,The Art of Seduction,0.3877090811729431,0
+4693,She's Gotta Have It,7348,"When Beauty Tamed the Beast (Fairy Tales, #2)",0.38035300374031067,0
+4693,She's Gotta Have It,7122,Sex at Dawn: The Prehistoric Origins of Modern Sexuality,0.37985023856163025,0
+1350,Snow Falling on Cedars,1412,Underground: The Tokyo Gas Attack and the Japanese Psyche,0.29223352670669556,0
+1350,Snow Falling on Cedars,1408,In the Heart of the Sea: The Tragedy of the Whaleship Essex,0.2906448543071747,0
+1350,Snow Falling on Cedars,2869,Cod: A Biography of the Fish that Changed the World,0.2639654874801636,0
+506,Despicable Me 2,8426,"Vicious (Villains, #1)",0.3248612582683563,0
+506,Despicable Me 2,8210,Ghettoside: A True Story of Murder in America,0.2744910717010498,0
+506,Despicable Me 2,9358,"Killing Sarai (In the Company of Killers, #1)",0.2663158178329468,0
+1863,Million Dollar Arm,5502,Ball Four,0.4599112868309021,1
+1863,Million Dollar Arm,7528,Those Guys Have All the Fun: Inside the World of ESPN,0.4518706202507019,1
+1863,Million Dollar Arm,113,Moneyball: The Art of Winning an Unfair Game,0.4022403359413147,1
+4604,The Prophecy,7281,"The Boy Who Came Back from Heaven: A Remarkable Account of Miracles, Angels, and Life beyond This World",0.3978547155857086,0
+4604,The Prophecy,8779,"Gabriel's Redemption (Gabriel's Inferno, #3)",0.3874671459197998,0
+4604,The Prophecy,8131,"Wicked Nights (Angels of the Dark, #1)",0.38343876600265503,0
+2955,Copying Beethoven,5033,Faust,0.3726281523704529,0
+2955,Copying Beethoven,1196,Faust: First Part,0.3676033318042755,0
+2955,Copying Beethoven,3820,"The Pianist: The Extraordinary Story of One Man's Survival in Warsaw, 1939–45",0.35353097319602966,0
+4737,Queen Crab,4705,"Wolf Brother (Chronicles of Ancient Darkness, #1)",0.2846563458442688,0
+4737,Queen Crab,3565,"Meg (MEG, #1)",0.2744830846786499,0
+4737,Queen Crab,6891,The Darkest Passion (Lords of the Underworld #5),0.2547169327735901,0
+3003,Dogma,883,Hell's Angels: A Strange and Terrible Saga,0.35371530055999756,0
+3003,Dogma,8131,"Wicked Nights (Angels of the Dark, #1)",0.33794957399368286,0
+3003,Dogma,7098,The Darkest Lie (Lords of the Underworld #6),0.33776482939720154,0
+1934,Say It Isn't So,8421,The Boy Who Sneaks in My Bedroom Window,0.4482484459877014,1
+1934,Say It Isn't So,9650,"Hero (Hero, #1)",0.43761730194091797,1
+1934,Say It Isn't So,8826,"Fallen Crest Family (Fallen Crest High, #2)",0.43467578291893005,1
+393,102 Dalmatians,5196,"The 101 Dalmatians (The Hundred and One Dalmatians, #1)",0.36412978172302246,0
+393,102 Dalmatians,4317,"Shiloh (Shiloh, #1)",0.36086180806159973,0
+393,102 Dalmatians,6928,One Good Dog,0.3466542959213257,0
+3043,Get Over It,8111,A Midsummer's Nightmare,0.38681328296661377,0
+3043,Get Over It,9401,"Until You (Fall Away, #1.5)",0.38492274284362793,0
+3043,Get Over It,9555,"The Hook Up (Game On, #1)",0.3812108039855957,0
+2544,Not Another Teen Movie,7331,Prom and Prejudice,0.3613898754119873,0
+2544,Not Another Teen Movie,5825,"Stand Tall, Molly Lou Melon",0.3330184817314148,0
+2544,Not Another Teen Movie,1851,Twelve Angry Men,0.32963305711746216,0
+4785,Clean,4182,Beautiful Boy: A Father's Journey Through His Son's Addiction,0.3842882513999939,0
+4785,Clean,9505,"Addicted to You (Addicted, #1)",0.3449971079826355,0
+4785,Clean,6661,After,0.31817251443862915,0
+867,The Godfather: Part III,1565,The Sicilian,0.31348708271980286,0
+867,The Godfather: Part III,9369,Flash Boys: A Wall Street Revolt,0.30968689918518066,0
+867,The Godfather: Part III,105,Liar's Poker,0.3094797730445862,0
+3069,"Jeff, Who Lives at Home",7040,"Unleashed (Ross Siblings, #1)",0.3128790855407715,0
+3069,"Jeff, Who Lives at Home",2582,"His Needs, Her Needs: Building an Affair-Proof Marriage",0.29456374049186707,0
+3069,"Jeff, Who Lives at Home",203,The Lost Boy (Dave Pelzer #2),0.2784234881401062,0
+2081,Molly,3026,Born on a Blue Day: Inside the Extraordinary Mind of an Autistic Savant,0.39877575635910034,0
+2081,Molly,6814,Mockingbird,0.36379724740982056,0
+2081,Molly,3008,Dibs in Search of Self,0.3608825206756592,0
+1890,Don Juan DeMarco,1551,Shutter Island,0.33330100774765015,0
+1890,Don Juan DeMarco,191,Blindness,0.33174920082092285,0
+1890,Don Juan DeMarco,3113,The Teachings of Don Juan: A Yaqui Way of Knowledge ,0.32516488432884216,0
+3466,Tales from the Hood,5601,"The Interpretation of Murder (Freud, #1)",0.41054755449295044,1
+3466,Tales from the Hood,3534,Cabal,0.3975406289100647,0
+3466,Tales from the Hood,856,Nightmares and Dreamscapes,0.3900853395462036,0
+4085,Smoke Signals,1290,Alexander Hamilton,0.4141344130039215,1
+4085,Smoke Signals,4941,Schindler's List,0.4077798128128052,1
+4085,Smoke Signals,3042,Bury My Heart at Wounded Knee: An Indian History of the American West,0.3980714678764343,0
+4411,ZMD: Zombies of Mass Destruction,6135,"Infected (Infected, #1)",0.38316529989242554,0
+4411,ZMD: Zombies of Mass Destruction,6765,"The Walking Dead, Vol. 11: Fear the Hunters",0.3606172204017639,0
+4411,ZMD: Zombies of Mass Destruction,8376,The Zombie Room,0.35754579305648804,0
+4181,Hang 'em High,8210,Ghettoside: A True Story of Murder in America,0.3650691509246826,0
+4181,Hang 'em High,4479,"Death Without Company (Walt Longmire, #2)",0.35637348890304565,0
+4181,Hang 'em High,3622,"The Cold Dish (Walt Longmire, #1)",0.3144514560699463,0
+4437,Bambi,5639,Bambi,0.4850855767726898,1
+4437,Bambi,5474,Bambi,0.48331218957901,1
+4437,Bambi,6711,"Forest Born (The Books of Bayern, #4)",0.48094332218170166,1
+2060,Out of the Furnace,4789,"A Morbid Taste for Bones (Chronicles of Brother Cadfael, #1)",0.4036039412021637,1
+2060,Out of the Furnace,7612,The Sisters Brothers,0.3696975111961365,0
+2060,Out of the Furnace,4054,Wiseguy,0.3631284236907959,0
+1177,Sin City,4987,"Sin City, Vol. 1: The Hard Goodbye (Sin City, #1)",0.5509960055351257,1
+1177,Sin City,5052,"Sin City, Vol. 3: The Big Fat Kill (Sin City, #3)",0.4773465394973755,1
+1177,Sin City,2775,"Sin City, Vol. 4: That Yellow Bastard (Sin City, #4)",0.4734232425689697,1
+1197,Horrible Bosses 2,7984,"Infamous (Chronicles of Nick, #3)",0.37384483218193054,0
+1197,Horrible Bosses 2,6878,"Infinity (Chronicles of Nick, #1)",0.33810269832611084,0
+1197,Horrible Bosses 2,3942,"The Black Company (The Chronicles of the Black Company, #1)",0.3364444375038147,0
+4221,Buffalo '66,9401,"Until You (Fall Away, #1.5)",0.38165825605392456,0
+4221,Buffalo '66,8749,"Convicted (Consequences, #3)",0.3636939823627472,0
+4221,Buffalo '66,8534,"This Girl (Slammed, #3)",0.3464260697364807,0
+430,Lilo & Stitch,9715,Kulti,0.4129888415336609,1
+430,Lilo & Stitch,5533,Llama Llama Mad at Mama,0.37310826778411865,0
+430,Lilo & Stitch,5532,Is Your Mama a Llama?,0.3654440939426422,0
+798,The Internship,3468,Founders at Work: Stories of Startups' Early Days,0.36473023891448975,0
+798,The Internship,9614,How Google Works,0.3627081513404846,0
+798,The Internship,3681,The Smartest Guys in the Room: The Amazing Rise and Scandalous Fall of Enron,0.35242322087287903,0
+3145,Poltergeist III,7112,"Ghost Town (The Morganville Vampires, #9)",0.3231543302536011,0
+3145,Poltergeist III,5982,The Suspicions of Mr. Whicher: A Shocking Murder and the Undoing of a Great Victorian Detective,0.30771103501319885,0
+3145,Poltergeist III,4602,"Silent in the Grave (Lady Julia Grey, #1)",0.30768388509750366,0
+3369,Rabbit-Proof Fence,4509,Women Who Run With the Wolves: Myths and Stories of the Wild Woman Archetype,0.31098413467407227,0
+3369,Rabbit-Proof Fence,2090,One Thousand White Women: The Journals of May Dodd (One Thousand White Women#1),0.2806072235107422,0
+3369,Rabbit-Proof Fence,7384,Cinderella Ate My Daughter: Dispatches from the Frontlines of the New Girlie-Girl Culture,0.2774865925312042,0
+474,Evolution,2617,"The Secret Diary of Adrian Mole, Aged 13 3/4  (Adrian Mole, #1)",0.36843258142471313,0
+474,Evolution,6359,Marcelo in the Real World,0.3528099060058594,0
+474,Evolution,2859,An Anthropologist on Mars: Seven Paradoxical Tales,0.35119691491127014,0
+3807,The Helpers,656,Fear and Loathing in Las Vegas,0.313251256942749,0
+3807,The Helpers,5203,Bringing Down the House: The Inside Story of Six M.I.T. Students Who Took Vegas for Millions,0.28895485401153564,0
+3807,The Helpers,1639,Lies & the Lying Liars Who Tell Them: A Fair & Balanced Look at the Right,0.28475499153137207,0
+915,Stepmom,1338,Daughter of Fortune,0.37679028511047363,0
+915,Stepmom,7469,Battle Hymn of the Tiger Mother,0.36657798290252686,0
+915,Stepmom,3305,The Lottery and Other Stories,0.3568305969238281,0
+2161,Quigley Down Under,8556,How to Tell If Your Cat Is Plotting to Kill You,0.29254934191703796,0
+2161,Quigley Down Under,8513,"Suspect (Scott James & Maggie, #1)",0.28452548384666443,0
+2161,Quigley Down Under,5029,Old Possum's Book of Practical Cats,0.25507161021232605,0
+1522,Cradle Will Rock,6151,"The Work of Art in the Age of Its Technological Reproducibility, and Other Writings on Media",0.4084833264350891,1
+1522,Cradle Will Rock,4989,The Rest Is Noise: Listening to the Twentieth Century,0.39649176597595215,0
+1522,Cradle Will Rock,4953,The Society of the Spectacle,0.39098894596099854,0
+2510,Beverly Hills Cop,9460,"Dominic (Slater Brothers, #1)",0.34005677700042725,0
+2510,Beverly Hills Cop,2193,"Eyes of Prey (Lucas Davenport, #3)",0.3365110754966736,0
+2510,Beverly Hills Cop,2269,"One Step Behind  (Kurt Wallander, #7)",0.32543736696243286,0
+154,Rise of the Guardians,8155,"Shadow's Claim (Immortals After Dark, #13; The Dacians, #1)",0.32778358459472656,0
+154,Rise of the Guardians,7372,Dreams of a Dark Warrior (Immortals After Dark #11),0.32214659452438354,0
+154,Rise of the Guardians,7501,"Everlasting (The Immortals, #6)",0.3117974102497101,0
+370,Now You See Me 2,2312,"Blowback (Scot Harvath, #4)",0.29463887214660645,0
+370,Now You See Me 2,143,The Men Who Stare at Goats,0.29281604290008545,0
+370,Now You See Me 2,7719,"Full Black (Scot Harvath, #10)",0.2819940745830536,0
+1746,Welcome Home Roscoe Jenkins,597,"The Good Husband of Zebra Drive (No. 1 Ladies' Detective Agency, #8)",0.2627635598182678,0
+1746,Welcome Home Roscoe Jenkins,2999,"Heaven, Texas (Chicago Stars, #2)",0.25128301978111267,0
+1746,Welcome Home Roscoe Jenkins,559,"The Big Over Easy (Nursery Crime, #1)",0.24237161874771118,0
+32,Alice in Wonderland,1669,Alice's Adventures in Wonderland: A Pop-Up Adaptation,0.46345317363739014,1
+32,Alice in Wonderland,6653,Alice's Adventures in Wonderland,0.4608749747276306,1
+32,Alice in Wonderland,9629,Down the Rabbit Hole: Curious Adventures and Cautionary Tales of a Former Playboy Bunny,0.45019686222076416,1
+3940,Letters to God,7281,"The Boy Who Came Back from Heaven: A Remarkable Account of Miracles, Angels, and Life beyond This World",0.5010984539985657,1
+3940,Letters to God,4182,Beautiful Boy: A Father's Journey Through His Son's Addiction,0.4895157814025879,1
+3940,Letters to God,203,The Lost Boy (Dave Pelzer #2),0.45129019021987915,1
+3183,The Ice Pirates,2692,Cosmos,0.34246641397476196,0
+3183,The Ice Pirates,155,The World Is Flat: A Brief History of the Twenty-first Century,0.3391610383987427,0
+3183,The Ice Pirates,1604,Death by Black Hole - And Other Cosmic Quandaries,0.3368820548057556,0
+3075,The House of Mirth,4503,Women Who Love Too Much: When You Keep Wishing and Hoping He'll Change,0.4051876366138458,1
+3075,The House of Mirth,3643,"Hateship, Friendship, Courtship, Loveship, Marriage: Stories",0.35241803526878357,0
+3075,The House of Mirth,2495,Why Men Love Bitches: From Doormat to Dreamgirl—A Woman's Guide to Holding Her Own in a Relationship,0.3282955288887024,0
+778,Meet Dave,7049,Packing for Mars: The Curious Science of Life in the Void,0.2843475341796875,0
+778,Meet Dave,5687,"No Humans Involved (Women of the Otherworld, #7)",0.27157148718833923,0
+778,Meet Dave,4294,"The Ship Who Sang (Brainship, #1)",0.26298242807388306,0
+4536,Kiss the Bride,8488,"The Marriage Mistake (Marriage to a Billionaire, #3)",0.31306904554367065,0
+4536,Kiss the Bride,9607,"The Friend Zone (Game On, #2)",0.3085581958293915,0
+4536,Kiss the Bride,3629,"On the Way to the Wedding (Bridgertons, #8)",0.3078303337097168,0
+4420,Bang Bang Baby,3002,"Dream a Little Dream (Chicago Stars, #4)",0.3387314975261688,0
+4420,Bang Bang Baby,8238,"The Magic (The Secret, #3)",0.3277606666088104,0
+4420,Bang Bang Baby,5492,There's a Nightmare in My Closet,0.3271227777004242,0
+1740,Kick-Ass 2,8518,"Seducing Cinderella (Fighting for Love, #1)",0.39757269620895386,0
+1740,Kick-Ass 2,8817,"Fighting for Flight (Fighting, #1)",0.388039231300354,0
+1740,Kick-Ass 2,8123,Fearless: The Heroic Story of One Navy SEAL's Sacrifice in the Hunt for Osama Bin Laden and the Unwavering Devotion of the Woman Who Loved Him,0.38277167081832886,0
+3946,Damsels in Distress,471,"Girls in Pants: The Third Summer of the Sisterhood (Sisterhood, #3)",0.41846466064453125,1
+3946,Damsels in Distress,9906,"The Score (Off-Campus, #3)",0.41626065969467163,1
+3946,Damsels in Distress,2736,for colored girls who have considered suicide/when the rainbow is enuf,0.3996826112270355,0
+3326,Ta Ra Rum Pum,323,Maximum City: Bombay Lost and Found,0.4158514738082886,1
+3326,Ta Ra Rum Pum,3418,The Inheritance of Loss,0.3851926624774933,0
+3326,Ta Ra Rum Pum,1784,"The Twentieth Wife (Taj Mahal Trilogy, #1)",0.3839915096759796,0
+1188,Behind Enemy Lines,5451,Lone Survivor: The Eyewitness Account of Operation Redwing and the Lost Heroes of SEAL Team 10,0.36092936992645264,0
+1188,Behind Enemy Lines,7963,American Sniper: The Autobiography of the Most Lethal Sniper in U.S. Military History,0.3402550220489502,0
+1188,Behind Enemy Lines,4947,Flight of the Intruder (Jake Grafton #1),0.31395184993743896,0
+1825,Jimmy Neutron: Boy Genius,167,The Universe in a Nutshell,0.36713406443595886,0
+1825,Jimmy Neutron: Boy Genius,2116,"Jimmy Corrigan, the Smartest Kid on Earth",0.3547581136226654,0
+1825,Jimmy Neutron: Boy Genius,4031,"Captain Underpants and the Perilous Plot of Professor Poopypants (Captain Underpants, #4)",0.35247743129730225,0
+3328,The Hole,6046,"The Redeemer (Harry Hole, #6)",0.42279016971588135,1
+3328,The Hole,6910,"Eternal Kiss of Darkness (Night Huntress World, #2)",0.40916937589645386,1
+3328,The Hole,5179,"The Devil's Star (Harry Hole, #5)",0.4039152264595032,1
+1960,Rocky Balboa,9086,"Worth the Fight (MMA Fighter, #1)",0.33355093002319336,0
+1960,Rocky Balboa,9460,"Dominic (Slater Brothers, #1)",0.27410459518432617,0
+1960,Rocky Balboa,9002,"Remy (Real, #3)",0.25082746148109436,0
+316,Gangs of New York,7730,Killing Lincoln: The Shocking Assassination that Changed America Forever,0.40592730045318604,1
+316,Gangs of New York,5937,Gang Leader for a Day: A Rogue Sociologist Takes to the Streets,0.3887295722961426,0
+316,Gangs of New York,3977,Manhunt: The 12-Day Chase for Lincoln's Killer,0.38573533296585083,0
+426,The Hunger Games,6193,"The Hunger Games (The Hunger Games, #1)",0.48880627751350403,1
+426,The Hunger Games,7962,The World of the Hunger Games (Hunger Games Trilogy),0.4835406541824341,1
+426,The Hunger Games,7053,"Mockingjay (The Hunger Games, #3)",0.4754701256752014,1
+4619,Death Race 2000,8587,"The Secret Race: Inside the Hidden World of the Tour de France: Doping, Cover-ups, and Winning at All Costs",0.3967564105987549,0
+4619,Death Race 2000,9860,Hidden Figures: The American Dream and the Untold Story of the Black Women Mathematicians Who Helped Win the Space Race,0.34126588702201843,0
+4619,Death Race 2000,9987,The Underground Railroad,0.33364981412887573,0
+3443,Grease,6786,"Rock Chick (Rock Chick, #1)",0.38173389434814453,0
+3443,Grease,9049,"Friend-Zoned (Friend-Zoned, #1)",0.3792401850223541,0
+3443,Grease,9108,"Before Jamaica Lane (On Dublin Street, #3)",0.3735683858394623,0
+1815,Taken,7901,A Walk Across the Sun,0.4281454086303711,1
+1815,Taken,4281,Sold,0.41176682710647583,1
+1815,Taken,6622,Half the Sky: Turning Oppression into Opportunity for Women Worldwide,0.37831375002861023,0
+1081,Revolutionary Road,2562,Revolutionary Road,0.44429898262023926,1
+1081,Revolutionary Road,6913,Turtle in Paradise,0.42889323830604553,1
+1081,Revolutionary Road,5254,Tom's Midnight Garden,0.4147757291793823,1
+4166,Abandoned,3613,The Perfect Storm: A True Story of Men Against the Sea,0.40893974900245667,1
+4166,Abandoned,1408,In the Heart of the Sea: The Tragedy of the Whaleship Essex,0.32176312804222107,0
+4166,Abandoned,3751,Adrift: Seventy-Six Days Lost at Sea,0.29837220907211304,0
+3617,Force 10 from Navarone,5451,Lone Survivor: The Eyewitness Account of Operation Redwing and the Lost Heroes of SEAL Team 10,0.34481579065322876,0
+3617,Force 10 from Navarone,4711,The Guns of Navarone,0.33202648162841797,0
+3617,Force 10 from Navarone,5906,"Courageous (The Lost Fleet, #3)",0.3307429552078247,0
+1384,Friends with Benefits,9108,"Before Jamaica Lane (On Dublin Street, #3)",0.42462509870529175,1
+1384,Friends with Benefits,8740,"Down London Road (On Dublin Street, #2)",0.4181612730026245,1
+1384,Friends with Benefits,9568,"Beautiful Redemption (The Maddox Brothers, #2)",0.403238981962204,1
+104,Poseidon,1408,In the Heart of the Sea: The Tragedy of the Whaleship Essex,0.41641849279403687,1
+104,Poseidon,6981,"Ship Breaker (Ship Breaker, #1)",0.33385270833969116,0
+104,Poseidon,3613,The Perfect Storm: A True Story of Men Against the Sea,0.26804983615875244,0
+4377,I Origins,3728,The Blind Watchmaker: Why the Evidence of Evolution Reveals a Universe Without Design,0.4166608154773712,1
+4377,I Origins,336,Genome: the Autobiography of a Species in 23 Chapters,0.41504061222076416,1
+4377,I Origins,165,Darwin's Dangerous Idea: Evolution and the Meanings of Life,0.40416890382766724,1
+2066,Firefox,7120,Operation Mincemeat: How a Dead Man and a Bizarre Plan Fooled the Nazis and Assured an Allied Victory,0.25537484884262085,0
+2066,Firefox,2981,"Ghost Wars: The Secret History of the CIA, Afghanistan, and bin Laden from the Soviet Invasion to September 10, 2001",0.24494366347789764,0
+2066,Firefox,8219,Bomb: The Race to Build—and Steal—the World's Most Dangerous Weapon,0.2438429743051529,0
+1950,The True Story of Puss 'n Boots,838,"Ballet Shoes (Shoes, #1)",0.3519034683704376,0
+1950,The True Story of Puss 'n Boots,1566,Omerta,0.34901177883148193,0
+1950,The True Story of Puss 'n Boots,3948,Pulp,0.3452843427658081,0
+1702,Die Hard,9560,"NYPD Red 3 (NYPD Red, #3)",0.30488061904907227,0
+1702,Die Hard,6417,"The Scarecrow (Jack McEvoy, #2)",0.28763967752456665,0
+1702,Die Hard,8457,"NYPD Red (NYPD Red, #1)",0.2827276289463043,0
+2244,The Cold Light of Day,4800,"Kidnapped (David Balfour, #1)",0.37499240040779114,0
+2244,The Cold Light of Day,2722,Aura,0.32871514558792114,0
+2244,The Cold Light of Day,609,The Club Dumas,0.32294392585754395,0
+1041,Taken 2,6844,"First to Kill (Nathan McBride, #1)",0.28702086210250854,0
+1041,Taken 2,280,"From Russia With Love (James Bond, #5)",0.271531879901886,0
+1041,Taken 2,3472,The General's Daughter,0.2701341509819031,0
+2674,The Spy Who Loved Me,280,"From Russia With Love (James Bond, #5)",0.3840290904045105,0
+2674,The Spy Who Loved Me,7120,Operation Mincemeat: How a Dead Man and a Bizarre Plan Fooled the Nazis and Assured an Allied Victory,0.3371756672859192,0
+2674,The Spy Who Loved Me,3998,Ice Station Zebra,0.33452776074409485,0
+3550,Miss Julie,5517,The Faerie Queene ,0.4127923548221588,1
+3550,Miss Julie,3605,"The Wedding (Lairds' Fiancées, #2)",0.39496076107025146,0
+3550,Miss Julie,1155,"Daughter of the Forest  (Sevenwaters, #1)",0.38729262351989746,0
+4571,Napoleon Dynamite,8144,My Friend Dahmer,0.42821067571640015,1
+4571,Napoleon Dynamite,3270,Loser,0.42289549112319946,1
+4571,Napoleon Dynamite,6240,"Chains (Seeds of America, #1)",0.41715794801712036,1
+3721,Airlift,2981,"Ghost Wars: The Secret History of the CIA, Afghanistan, and bin Laden from the Soviet Invasion to September 10, 2001",0.3101857900619507,0
+3721,Airlift,3640,The Looming Tower: Al-Qaeda and the Road to 9/11,0.3000224232673645,0
+3721,Airlift,6163,تاكسي: حواديت المشاوير,0.2875775694847107,0
+636,The Santa Clause 2,5242,The Endurance: Shackleton's Legendary Antarctic Expedition,0.3284682631492615,0
+636,The Santa Clause 2,5850,Rudolph the Red-Nosed Reindeer,0.32544225454330444,0
+636,The Santa Clause 2,5476,"Scott Pilgrim, Volume 4: Scott Pilgrim Gets It Together",0.29736649990081787,0
+2389,Renaissance,7797,"The Hidden Child (Patrik Hedström, #5)",0.3783683776855469,0
+2389,Renaissance,6966,"The Ice Princess (Patrik Hedström, #1)",0.3605159521102905,0
+2389,Renaissance,9657,"Eeny Meeny (Helen Grace, #1)",0.3596380352973938,0
+2471,Hot Fuzz,2038,"Angels Flight (Harry Bosch, #6; Harry Bosch Universe, #7)",0.3505024313926697,0
+2471,Hot Fuzz,4994,"Well-Schooled in Murder (Inspector Lynley, #3)",0.33913350105285645,0
+2471,Hot Fuzz,7057,"This Body of Death (Inspector Lynley, #16)",0.33212339878082275,0
+2686,My Boss's Daughter,9990,Bossman,0.3163672685623169,0
+2686,My Boss's Daughter,9652,"Bound by Honor (Born in Blood Mafia Chronicles, #1)",0.30310407280921936,0
+2686,My Boss's Daughter,2951,"Rich Dad, Poor Dad",0.28329193592071533,0
+1391,License to Wed,6724,"Fools Rush In (Weddings by Bella, #1)",0.44830501079559326,1
+1391,License to Wed,8488,"The Marriage Mistake (Marriage to a Billionaire, #3)",0.43268880248069763,1
+1391,License to Wed,8305,"The Marriage Bargain (Marriage to a Billionaire, #1)",0.417222261428833,1
+4391,Speedway Junky,8091,"Hot Ticket (Sinners on Tour, #3)",0.33940550684928894,0
+4391,Speedway Junky,8995,"Driven (Driven, #1)",0.3367431163787842,0
+4391,Speedway Junky,9023,"Fueled (Driven, #2)",0.3308277130126953,0
+3150,Gentlemen Broncos,6712,Stolen: A Letter to My Captor,0.44846007227897644,1
+3150,Gentlemen Broncos,5107,"The Thief (The Queen's Thief, #1)",0.43940114974975586,1
+3150,Gentlemen Broncos,9421,"Skin Deep (Legion, #2)",0.43768051266670227,1
+2051,The Libertine,3736,Selected Poems,0.4311864376068115,1
+2051,The Libertine,3732,The Love Song of J. Alfred Prufrock and Other Poems,0.4050232768058777,1
+2051,The Libertine,2658,The Collected Poems of W.B. Yeats,0.3984453082084656,0
+2024,Gandhi,3668,The Story of My Experiments With Truth,0.48605889081954956,1
+2024,Gandhi,4897,India After Gandhi: The History of the World's Largest Democracy,0.4618028402328491,1
+2024,Gandhi,2473,A Passage to India,0.3054937720298767,0
+4383,Lisa Picard Is Famous,5629,"It Happened One Autumn (Wallflowers, #2)",0.3844510316848755,0
+4383,Lisa Picard Is Famous,5419,"Again the Magic (Wallflowers, #0)",0.36816391348838806,0
+4383,Lisa Picard Is Famous,9835,"Hollywood Dirt (Hollywood Dirt, #1)",0.35953864455223083,0
+3559,Ouija,6501,"The Awakening (Darkest Powers, #2)",0.40273791551589966,1
+3559,Ouija,3898,The Places That Scare You: A Guide to Fearlessness in Difficult Times,0.3891980051994324,0
+3559,Ouija,6197,"The Summoning (Darkest Powers, #1)",0.3805001378059387,0
+570,Ransom,4800,"Kidnapped (David Balfour, #1)",0.38554880023002625,0
+570,Ransom,4054,Wiseguy,0.3353136479854584,0
+570,Ransom,6742,"Worst Case (Michael Bennett, #3)",0.3330361545085907,0
+1625,Virtuosity,7164,"Kill the Dead (Sandman Slim, #2)",0.33040377497673035,0
+1625,Virtuosity,6430,"Daemon (Daemon, #1)",0.32811546325683594,0
+1625,Virtuosity,6135,"Infected (Infected, #1)",0.3191957473754883,0
+4142,The Lady from Shanghai,8447,"The Marriage Trap (Marriage to a Billionaire, #2)",0.38115766644477844,0
+4142,The Lady from Shanghai,8488,"The Marriage Mistake (Marriage to a Billionaire, #3)",0.356426864862442,0
+4142,The Lady from Shanghai,8654,"The Unwanted Wife (Unwanted, #1)",0.3545226454734802,0
+2727,The Last Godfather,4687,Sleepers,0.352763295173645,0
+2727,The Last Godfather,1567,The Godfather,0.30431345105171204,0
+2727,The Last Godfather,8183,"Stolen Prey (Lucas Davenport, #22)",0.29906582832336426,0
+722,Coraline,1426,"A Wind in the Door (A Wrinkle in Time Quintet, #2)",0.3966001272201538,0
+722,Coraline,7557,"The Girl Who Circumnavigated Fairyland in a Ship of Her Own Making (Fairyland, #1)",0.3835734724998474,0
+722,Coraline,1155,"Daughter of the Forest  (Sevenwaters, #1)",0.3821640908718109,0
+190,The Adventures of Tintin,4177,"The Secret of the Unicorn (Tintin, #11)",0.4794085621833801,1
+190,The Adventures of Tintin,3274,Tintin in the Land of the Soviets (Tintin #1),0.4027102589607239,1
+190,The Adventures of Tintin,4708,"The Eagle Has Landed (Liam Devlin, #1)",0.35907691717147827,0
+4505,Love Letters,2494,Love Is a Mix Tape,0.43153631687164307,1
+4505,Love Letters,4132,"Loves Music, Loves to Dance",0.4140697717666626,1
+4505,Love Letters,7917,Are You My Mother?,0.4108906388282776,1
+149,Armageddon,1357,The Making of the Atomic Bomb,0.26747414469718933,0
+149,Armageddon,8219,Bomb: The Race to Build—and Steal—the World's Most Dangerous Weapon,0.24752973020076752,0
+149,Armageddon,6046,"The Redeemer (Harry Hole, #6)",0.2350253313779831,0
+2451,Sydney White,3173,The Symposium,0.4390937387943268,1
+2451,Sydney White,129,"Agamemnon (Oresteia, #1)",0.42813992500305176,1
+2451,Sydney White,119,The Iliad,0.4220767021179199,1
+2172,Endless Love,3000,Kiss an Angel,0.3959364891052246,0
+2172,Endless Love,364,The Drama of the Gifted Child: The Search for the True Self,0.38709884881973267,0
+2172,Endless Love,1524,The Art of Seduction,0.3805064558982849,0
+45,World War Z,1299,The Hot Zone: The Terrifying True Story of the Origins of the Ebola Virus,0.47797518968582153,1
+45,World War Z,6135,"Infected (Infected, #1)",0.4673239588737488,1
+45,World War Z,2181,"The Ghost Map: The Story of London's Most Terrifying Epidemic - and How It Changed Science, Cities, and the Modern World",0.4672210216522217,1
+1113,28 Days,3013,Drinking: A Love Story,0.43819934129714966,1
+1113,28 Days,3158,Smashed: Story of a Drunken Girlhood,0.41153979301452637,1
+1113,28 Days,9645,Blackout: Remembering the Things I Drank to Forget,0.3837031424045563,0
+4385,A LEGO Brickumentary,488,Cradle to Cradle: Remaking the Way We Make Things,0.33138829469680786,0
+4385,A LEGO Brickumentary,4069,"A Bear Called Paddington (Paddington, #1)",0.31961920857429504,0
+4385,A LEGO Brickumentary,90,"The Egypt Game (Game, #1)",0.3075687289237976,0
+530,Killers,9652,"Bound by Honor (Born in Blood Mafia Chronicles, #1)",0.4166305363178253,1
+530,Killers,8374,"The Assassin and the Empire (Throne of Glass, #0.5)",0.41223788261413574,1
+530,Killers,8286,"The Assassin and the Pirate Lord (Throne of Glass, #0.1)",0.4070521295070648,1
+4781,Stories of Our Lives,6126,Say You're One of Them,0.4705004096031189,1
+4781,Stories of Our Lives,9972,Born a Crime: Stories From a South African Childhood,0.42773646116256714,1
+4781,Stories of Our Lives,4866,King Leopold's Ghost,0.410984069108963,1
+357,Ben-Hur,449,The Innocent Man: Murder and Injustice in a Small Town,0.33045661449432373,0
+357,Ben-Hur,1720,"The Professor and the Madman: A Tale of Murder, Insanity and the Making of the Oxford English Dictionary",0.32378894090652466,0
+357,Ben-Hur,2835,The Prince and the Pauper,0.3228093385696411,0
+2403,Aliens,6112,"The Talented Mr. Ripley (Ripley, #1)",0.44880470633506775,1
+2403,Aliens,2995,Scarlett,0.33683061599731445,0
+2403,Aliens,7049,Packing for Mars: The Curious Science of Life in the Void,0.33183276653289795,0
+4570,Roadside,1512,"The Hunt for Red October (Jack Ryan Universe, #4)",0.3438479006290436,0
+4570,Roadside,462,The Client,0.34067079424858093,0
+4570,Roadside,449,The Innocent Man: Murder and Injustice in a Small Town,0.3385307192802429,0
+2679,The Iron Lady,8096,Elizabeth the Queen: The Life of a Modern Monarch,0.357442170381546,0
+2679,The Iron Lady,3884,Elizabeth: The Struggle for the Throne,0.35599350929260254,0
+2679,The Iron Lady,4785,Georgiana: Duchess of Devonshire,0.33727559447288513,0
+2392,Superbad,9607,"The Friend Zone (Game On, #2)",0.30810001492500305,0
+2392,Superbad,9079,The Impossible Knife of Memory,0.2703981399536133,0
+2392,Superbad,5405,Cut,0.2637450098991394,0
+497,Red Dragon,2013,"Hannibal (Hannibal Lecter, #3)",0.4987812638282776,1
+497,Red Dragon,1644,"The Silence of the Lambs  (Hannibal Lecter, #2)",0.4711396098136902,1
+497,Red Dragon,2012,"Hannibal Rising (Hannibal Lecter, #4)",0.44855794310569763,1
+2420,Lottery Ticket,5723,The Millionaire Mind,0.40339183807373047,1
+2420,Lottery Ticket,3835,Financial Peace Revisited,0.3826986253261566,0
+2420,Lottery Ticket,96,The Millionaire Next Door: The Surprising Secrets of Americas Wealthy,0.37217700481414795,0
+2190,Loser,9752,"The Deal (Off-Campus, #1)",0.390148788690567,0
+2190,Loser,9906,"The Score (Off-Campus, #3)",0.36381426453590393,0
+2190,Loser,9805,"The Mistake (Off-Campus, #2)",0.3548094928264618,0
+3028,Kung Pow: Enter the Fist,4944,The Manchurian Candidate (Movie Tie-In Edition),0.3883512616157532,0
+3028,Kung Pow: Enter the Fist,4218,"Forrest Gump (Forrest Gump, #1)",0.3304084241390228,0
+3028,Kung Pow: Enter the Fist,5812,Braveheart,0.31626656651496887,0
+839,Evita,1618,La casa de Bernarda Alba,0.39814049005508423,0
+839,Evita,2665,El túnel,0.3791542053222656,0
+839,Evita,230,The Stories of Eva Luna,0.3630405366420746,0
+2391,Red Lights,1387,The Demon-Haunted World: Science as a Candle in the Dark,0.4256935119628906,1
+2391,Red Lights,6501,"The Awakening (Darkest Powers, #2)",0.4087299704551697,1
+2391,Red Lights,2092,Hell House,0.40613967180252075,1
+3371,Split Second,2381,The Sea Wolf,0.3194696605205536,0
+3371,Split Second,1408,In the Heart of the Sea: The Tragedy of the Whaleship Essex,0.31417620182037354,0
+3371,Split Second,931,"Over Sea, Under Stone (The Dark Is Rising, #1)",0.2999669909477234,0
+3511,The Spanish Apartment,4819,Almost French: Love and a New Life in Paris,0.44466590881347656,1
+3511,The Spanish Apartment,599,Paris to the Moon,0.4172898530960083,1
+3511,The Spanish Apartment,607,La Dame aux Camélias,0.40144598484039307,1
+3747,The Kids Are All Right,8207,Bringing Up Bébé: One American Mother Discovers the Wisdom of French Parenting,0.41977158188819885,1
+3747,The Kids Are All Right,4149,What to Expect When You're Expecting,0.3856046795845032,0
+3747,The Kids Are All Right,9781,"The Story of the Lost Child (The Neapolitan Novels, #4)",0.3675023317337036,0
+1540,American Pie 2,8383,"The Last Man (Mitch Rapp, #13)",0.28119945526123047,0
+1540,American Pie 2,4209,"Memorial Day (Mitch Rapp, #7)",0.2792549133300781,0
+1540,American Pie 2,4448,The Outsiders,0.2776128649711609,0
+1567,Warm Bodies,8376,The Zombie Room,0.468377023935318,1
+1567,Warm Bodies,7116,"Warm Bodies (Warm Bodies, #1)",0.44215941429138184,1
+1567,Warm Bodies,4286,"Rapture in Death (In Death, #4)",0.4063469171524048,1
+3099,The Brown Bunny,8587,"The Secret Race: Inside the Hidden World of the Tour de France: Doping, Cover-ups, and Winning at All Costs",0.368389368057251,0
+3099,The Brown Bunny,8227,Eat and Run: My Unlikely Journey to Ultramarathon Greatness,0.2989860475063324,0
+3099,The Brown Bunny,6272,The Art of Racing in the Rain,0.2935483753681183,0
+745,Miss Congeniality 2: Armed and Fabulous,9466,"The Job (Fox and O'Hare, #3)",0.3824026584625244,0
+745,Miss Congeniality 2: Armed and Fabulous,9155,"The Chase (Fox and O'Hare, #2)",0.36179283261299133,0
+745,Miss Congeniality 2: Armed and Fabulous,8764,"The Heist (Fox and O'Hare, #1)",0.35954195261001587,0
+2815,Ace Ventura: Pet Detective,6517,Dog on It (A Chet and Bernie Mystery #1),0.3190973997116089,0
+2815,Ace Ventura: Pet Detective,4842,"Eye of the Storm (Sean Dillon, #1)",0.30954861640930176,0
+2815,Ace Ventura: Pet Detective,6417,"The Scarecrow (Jack McEvoy, #2)",0.30175065994262695,0
+1434,Parker,2269,"One Step Behind  (Kurt Wallander, #7)",0.356250137090683,0
+1434,Parker,2267,"Sidetracked (Kurt Wallander, #5)",0.3466368317604065,0
+1434,Parker,7784,"The Keeper of Lost Causes (Department Q, #1)",0.34384027123451233,0
+1200,The Living Daylights,280,"From Russia With Love (James Bond, #5)",0.5482126474380493,1
+1200,The Living Daylights,278,"On Her Majesty's Secret Service (James Bond, #11)",0.48436254262924194,1
+1200,The Living Daylights,273,"Moonraker (James Bond, #3)",0.46077629923820496,1
+3305,Code of Honor,9061,An Officer and a Spy,0.37959611415863037,0
+3305,Code of Honor,4054,Wiseguy,0.34531939029693604,0
+3305,Code of Honor,4842,"Eye of the Storm (Sean Dillon, #1)",0.3300994634628296,0
+3385,The Visitors,1368,The Time Machine/The Invisible Man,0.4466497600078583,1
+3385,The Visitors,8306,The Hundred-Year-Old Man Who Climbed Out of the Window and Disappeared,0.43176835775375366,1
+3385,The Visitors,6455,The Time Traveller's Guide to Medieval England: A Handbook for Visitors to the Fourteenth Century,0.43042153120040894,1
+2222,Code Name: The Cleaner,8946,"Taking Shots (Assassins, #1)",0.2834108769893646,0
+2222,Code Name: The Cleaner,8513,"Suspect (Scott James & Maggie, #1)",0.28335893154144287,0
+2222,Code Name: The Cleaner,6266,"The Charlemagne Pursuit (Cotton Malone, #4)",0.28255903720855713,0
+562,The Village,122,Hamlet,0.3430468738079071,0
+562,The Village,359,"Mayflower: A Story of Courage, Community, and War",0.33204734325408936,0
+562,The Village,3729,"Hamlet: Screenplay, Introduction And Film Diary",0.32462751865386963,0
+2360,Getaway,597,"The Good Husband of Zebra Drive (No. 1 Ladies' Detective Agency, #8)",0.26173627376556396,0
+2360,Getaway,8628,"Hawkeye, Volume 1: My Life as a Weapon",0.2547750174999237,0
+2360,Getaway,9545,"Crash & Burn (Tessa Leoni, #3)",0.24705296754837036,0
+3391,Gerry,203,The Lost Boy (Dave Pelzer #2),0.303783655166626,0
+3391,Gerry,8902,"Lost & Found (Lost & Found, #1)",0.2882211208343506,0
+3391,Gerry,5839,"Tunnels (Tunnels, #1)",0.2833360433578491,0
+118,Ratatouille,2724,Barefoot in Paris,0.48118114471435547,1
+118,Ratatouille,3844,Mastering the Art of French Cooking,0.46576356887817383,1
+118,Ratatouille,6564,The Sweet Life in Paris: Delicious Adventures in the World's Most Glorious - and Perplexing - City,0.45963799953460693,1
+4078,Boys Don't Cry,8143,"Lady Luck (Colorado Mountain, #3)",0.4734227657318115,1
+4078,Boys Don't Cry,2568,Boy Meets Girl: Say Hello to Courtship,0.46324294805526733,1
+4078,Boys Don't Cry,8500,"Breathe (Colorado Mountain, #4)",0.45022863149642944,1
+865,Seven Pounds,5841,"The Venetian Betrayal (Cotton Malone, #3)",0.40750765800476074,1
+865,Seven Pounds,3807,The Third Secret,0.38433194160461426,0
+865,Seven Pounds,5612,God's Smuggler,0.3779869079589844,0
+2840,Prophecy,6882,"The Fall (The Strain Trilogy, #2)",0.2904841899871826,0
+2840,Prophecy,6822,"The Enemy (The Enemy, #1)",0.2856346368789673,0
+2840,Prophecy,2062,At the Mountains of Madness and Other Tales of Terror,0.28092285990715027,0
+3706,Saving Private Perez,2812,La vida del Lazarillo de Tormes,0.44438350200653076,1
+3706,Saving Private Perez,2779,La ciudad y los perros,0.4188375771045685,1
+3706,Saving Private Perez,5866,Os Maias,0.4180338978767395,1
+1435,Wimbledon,6759,Open,0.2711632251739502,0
+1435,Wimbledon,8148,Gold,0.26110902428627014,0
+1435,Wimbledon,8587,"The Secret Race: Inside the Hidden World of the Tour de France: Doping, Cover-ups, and Winning at All Costs",0.2582484781742096,0
+4544,Everything Put Together,4970,Legally Blonde,0.2596103250980377,0
+4544,Everything Put Together,2473,A Passage to India,0.23799699544906616,0
+4544,Everything Put Together,580,number9dream,0.22535251080989838,0
+1454,A Good Year,933,Trouble Is My Business,0.31659364700317383,0
+1454,A Good Year,8979,Empty Mansions: The Mysterious Life of Huguette Clark and the Spending of a Great American Fortune,0.29789599776268005,0
+1454,A Good Year,6655,"The Accidental Billionaires: The Founding of Facebook, a Tale of Sex, Money, Genius and Betrayal",0.2950039505958557,0
+2952,Return to the Blue Lagoon,4467,"Island of the Blue Dolphins (Island of the Blue Dolphins, #1)",0.47889602184295654,1
+2952,Return to the Blue Lagoon,7750,"The Abduction (Theodore Boone, #2)",0.384785920381546,0
+2952,Return to the Blue Lagoon,8466,"On the Island (On the Island, #1)",0.38137155771255493,0
+1542,Speed,2689,"The Tin Roof Blowdown (Dave Robicheaux, #16)",0.33946987986564636,0
+1542,Speed,1470,Homicide: A Year on the Killing Streets,0.3149610757827759,0
+1542,Speed,9141,"No Place to Hide: Edward Snowden, the NSA, and the U.S. Surveillance State",0.30398064851760864,0
+2001,The Crew,8183,"Stolen Prey (Lucas Davenport, #22)",0.3182806372642517,0
+2001,The Crew,4054,Wiseguy,0.29368507862091064,0
+2001,The Crew,3570,Helter Skelter: The True Story of the Manson Murders,0.2882630527019501,0
+4045,Show Boat,5716,A Fish Out of Water,0.3027173578739166,0
+4045,Show Boat,4055,Captain Blood,0.2930110692977905,0
+4045,Show Boat,215,"The River (Brian's Saga, #2)",0.28841647505760193,0
+4700,Once,3225,Void Moon,0.29686135053634644,0
+4700,Once,2748,"Trunk Music (Harry Bosch, #5; Harry Bosch Universe, #6)",0.29551708698272705,0
+4700,Once,7202,"Moonlight Mile (Kenzie & Gennaro,#6)",0.2902630567550659,0
+24,King Kong,3801,Jaws,0.32959669828414917,0
+24,King Kong,2300,"Tarzan of the Apes (Tarzan, #1)",0.28069648146629333,0
+24,King Kong,5046,Planet of the Apes,0.26458585262298584,0
+4125,The Last Five Years,3643,"Hateship, Friendship, Courtship, Loveship, Marriage: Stories",0.3824981451034546,0
+4125,The Last Five Years,7414,The Paris Wife,0.37416762113571167,0
+4125,The Last Five Years,8889,The Goldfinch,0.37310341000556946,0
+1717,Safe Haven,4602,"Silent in the Grave (Lady Julia Grey, #1)",0.4513281285762787,1
+1717,Safe Haven,3264,"Mistress of the Art of Death (Mistress of the Art of Death, #1)",0.4093599319458008,1
+1717,Safe Haven,1962,"A Caribbean Mystery (Miss Marple, #10)",0.40744978189468384,1
+2531,Why Did I Get Married?,4291,The First Wives Club,0.3793766498565674,0
+2531,Why Did I Get Married?,8488,"The Marriage Mistake (Marriage to a Billionaire, #3)",0.3684562146663666,0
+2531,Why Did I Get Married?,9111,"Rival (Fall Away, #2)",0.36417073011398315,0
+3881,Feast,7500,The Darkest Secret (Lords of the Underworld #7),0.2746770977973938,0
+3881,Feast,6182,The Darkest Pleasure (Lords of the Underworld #3),0.26831525564193726,0
+3881,Feast,6891,The Darkest Passion (Lords of the Underworld #5),0.2653012275695801,0
+1672,1911,2729,Tao Te Ching,0.41390424966812134,1
+1672,1911,4722,Mao's Last Dancer,0.40996479988098145,1
+1672,1911,358,1421: The Year China Discovered America,0.38651177287101746,0
+3844,Troll Hunter,3979,"Touching Spirit Bear (Spirit Bear, #1)",0.4257359504699707,1
+3844,Troll Hunter,8245,Liar & Spy,0.3960350751876831,0
+3844,Troll Hunter,3506,"The Sea of Trolls (Sea of Trolls, #1)",0.38419070839881897,0
+3560,A Nightmare on Elm Street 3: Dream Warriors,6135,"Infected (Infected, #1)",0.36400508880615234,0
+3560,A Nightmare on Elm Street 3: Dream Warriors,6226,Living Dead Girl,0.360095739364624,0
+3560,A Nightmare on Elm Street 3: Dream Warriors,3304,The Haunting of Hill House,0.3552851676940918,0
+1071,Blended,8613,"Not Quite Dating (Not Quite, #1)",0.3420983552932739,0
+1071,Blended,9781,"The Story of the Lost Child (The Neapolitan Novels, #4)",0.3349229395389557,0
+1071,Blended,6938,The Lonely Polygamist,0.3283688426017761,0
+3262,Easy A,1012,The Scarlet Letter,0.48439252376556396,1
+3262,Easy A,7977,"Scarlet (Scarlet, #1)",0.4681752920150757,1
+3262,Easy A,7619,"Twisted (Pretty Little Liars, #9)",0.4485814869403839,1
+423,Bruce Almighty,2147,If Chins Could Kill: Confessions of a B-Movie Actor,0.3136281967163086,0
+423,Bruce Almighty,3593,Batman: A Death in the Family,0.2831147015094757,0
+423,Bruce Almighty,6545,"The Madness of Lord Ian Mackenzie (Mackenzies & McBrides, #1)",0.2819421887397766,0
+984,Into the Blue,3801,Jaws,0.42061376571655273,1
+984,Into the Blue,1408,In the Heart of the Sea: The Tragedy of the Whaleship Essex,0.3844382166862488,0
+984,Into the Blue,3968,"Ice Station (Shane Schofield, #1)",0.3706262409687042,0
+1187,Bridge of Spies,2981,"Ghost Wars: The Secret History of the CIA, Afghanistan, and bin Laden from the Soviet Invasion to September 10, 2001",0.4065493941307068,1
+1187,Bridge of Spies,280,"From Russia With Love (James Bond, #5)",0.38139286637306213,0
+1187,Bridge of Spies,4708,"The Eagle Has Landed (Liam Devlin, #1)",0.37697213888168335,0
+2744,This Christmas,4504,The Best Christmas Pageant Ever (The Herdmans #1),0.5137060880661011,1
+2744,This Christmas,4262,The Night Before Christmas,0.47860193252563477,1
+2744,This Christmas,447,A Christmas Carol and Other Christmas Writings,0.4708263874053955,1
+1506,Source Code,4842,"Eye of the Storm (Sean Dillon, #1)",0.3179999887943268,0
+1506,Source Code,6844,"First to Kill (Nathan McBride, #1)",0.30611521005630493,0
+1506,Source Code,4209,"Memorial Day (Mitch Rapp, #7)",0.30413103103637695,0
+1539,Big Daddy,6770,NurtureShock: New Thinking About Children,0.39645689725875854,0
+1539,Big Daddy,5640,"Healthy Sleep Habits, Happy Child",0.3708067536354065,0
+1539,Big Daddy,3865,The Happiest Baby on the Block: The New Way to Calm Crying and Help Your Newborn Baby Sleep Longer,0.35672253370285034,0
+4152,Slacker Uprising,4770,Johnny Mnemonic,0.3082945644855499,0
+4152,Slacker Uprising,4944,The Manchurian Candidate (Movie Tie-In Edition),0.30496692657470703,0
+4152,Slacker Uprising,2311,Stupid White Men,0.3002683222293854,0
+1360,There Be Dragons,1648,Chronicle of a Death Foretold,0.45521435141563416,1
+1360,There Be Dragons,1419,Collected Fictions,0.44363510608673096,1
+1360,There Be Dragons,912,The Flanders Panel,0.433806449174881,1
+3195,Opal Dream,9894,RoomHate,0.40026065707206726,1
+3195,Opal Dream,9573,Echo,0.3967112898826599,0
+3195,Opal Dream,9282,Bone Gap,0.3944382667541504,0
+88,Big Hero 6,2336,The Robots of Dawn (Robot #3),0.2645769715309143,0
+88,Big Hero 6,2784,Halo: The Fall of Reach,0.2550756335258484,0
+88,Big Hero 6,1546,"Forever Peace (The Forever War, #2)",0.24882087111473083,0
+1648,Fright Night,4395,The Omen,0.416167676448822,1
+1648,Fright Night,4181,The Exorcist,0.4160168766975403,1
+1648,Fright Night,5162,The Howling,0.4082859456539154,1
+2061,Michael Clayton,6738,Justice: What's the Right Thing to Do?,0.22154346108436584,0
+2061,Michael Clayton,455,The Street Lawyer,0.18306881189346313,0
+2061,Michael Clayton,449,The Innocent Man: Murder and Injustice in a Small Town,0.17553630471229553,0
+4205,Out of the Dark,8767,The Sound of Things Falling,0.3142823576927185,0
+4205,Out of the Dark,2257,"Reliquary (Pendergast, #2)",0.31076470017433167,0
+4205,Out of the Dark,1647,Of Love and Other Demons,0.2967659533023834,0
+668,Elektra,8359,"The Assassin and the Underworld (Throne of Glass, #0.4)",0.3882344961166382,0
+668,Elektra,6832,"Spider's Bite (Elemental Assassin, #1)",0.38489729166030884,0
+668,Elektra,8374,"The Assassin and the Empire (Throne of Glass, #0.5)",0.3847682476043701,0
+4022,My Life Without Me,84,The Alchemist,0.4244290292263031,1
+4022,My Life Without Me,127,Veronika Decides to Die,0.4208633303642273,1
+4022,My Life Without Me,2913,"Death at La Fenice (Commissario Brunetti, #1)",0.39102840423583984,0
+3521,Crossover,6407,The Book of Basketball: The NBA According to The Sports Guy,0.32968002557754517,0
+3521,Crossover,8208,"Dream Team: How Michael, Magic, Larry, Charles, and the Greatest Team of All Time Conquered the World and Changed the Game of Basketball Forever",0.2940869927406311,0
+3521,Crossover,6795,When the Game Was Ours,0.2826043963432312,0
+2837,The Fault in Our Stars,7026,The Emperor of All Maladies: A Biography of Cancer,0.41240888833999634,1
+2837,The Fault in Our Stars,2942,"Girl, Interrupted",0.3772251009941101,0
+2837,The Fault in Our Stars,9702,Black-Eyed Susans,0.37558987736701965,0
+435,Alvin and the Chipmunks: Chipwrecked,5242,The Endurance: Shackleton's Legendary Antarctic Expedition,0.33192533254623413,0
+435,Alvin and the Chipmunks: Chipwrecked,9425,In the Kingdom of Ice: The Grand and Terrible Polar Voyage of the USS Jeannette,0.30273520946502686,0
+435,Alvin and the Chipmunks: Chipwrecked,1408,In the Heart of the Sea: The Tragedy of the Whaleship Essex,0.2987994849681854,0
+4562,Diamond Ruff,3566,Zodiac,0.40645015239715576,1
+4562,Diamond Ruff,6275,Beat the Reaper (Peter Brown #1),0.3987365663051605,0
+4562,Diamond Ruff,7160,"I Hunt Killers (Jasper Dent, #1)",0.3943966329097748,0
+3121,Blonde Ambition,4767,Getting to Yes: Negotiating an Agreement Without Giving In,0.31905362010002136,0
+3121,Blonde Ambition,872,When Genius Failed: The Rise and Fall of Long-Term Capital Management,0.3182854652404785,0
+3121,Blonde Ambition,6150,The Long Tail: Why the Future of Business is Selling Less of More,0.31482192873954773,0
+2830,Quarantine,1299,The Hot Zone: The Terrifying True Story of the Origins of the Ebola Virus,0.4230825901031494,1
+2830,Quarantine,6135,"Infected (Infected, #1)",0.300297349691391,0
+2830,Quarantine,4946,The Cobra Event,0.29948174953460693,0
+378,K-19: The Widowmaker,5242,The Endurance: Shackleton's Legendary Antarctic Expedition,0.3300946056842804,0
+378,K-19: The Widowmaker,9425,In the Kingdom of Ice: The Grand and Terrible Polar Voyage of the USS Jeannette,0.32442179322242737,0
+378,K-19: The Widowmaker,3919,Endurance: Shackleton's Incredible Voyage,0.262384831905365,0
+3170,Harold & Kumar Go to White Castle,871,The Paradox of Choice: Why More Is Less,0.3348717987537384,0
+3170,Harold & Kumar Go to White Castle,3473,Harold and the Purple Crayon,0.33463525772094727,0
+3170,Harold & Kumar Go to White Castle,7900,"Thinking, Fast and Slow",0.33302026987075806,0
+4612,Sisters in Law,9751,Missoula: Rape and the Justice System in a College Town,0.439430832862854,1
+4612,Sisters in Law,6903,"I Am Nujood, Age 10 and Divorced",0.38853129744529724,0
+4612,Sisters in Law,6176,"Stolen Innocence: My Story of Growing Up in a Polygamous Sect, Becoming a Teenage Bride, and Breaking Free of Warren Jeffs",0.384219229221344,0
+705,Couples Retreat,3763,Getting Stoned with Savages: A Trip Through the Islands of Fiji and Vanuatu,0.38688576221466064,0
+705,Couples Retreat,914,The Sex Lives of Cannibals: Adrift in the Equatorial Pacific,0.34960371255874634,0
+705,Couples Retreat,8466,"On the Island (On the Island, #1)",0.34880661964416504,0
+2017,Ghost,2080,"Chocolate Chip Cookie Murder (Hannah Swensen, #1)",0.36935877799987793,0
+2017,Ghost,7202,"Moonlight Mile (Kenzie & Gennaro,#6)",0.3651297688484192,0
+2017,Ghost,5398,"Heartsick (Archie Sheridan & Gretchen Lowell, #1)",0.3619334101676941,0
+940,Syriana,2368,The Haj,0.33789125084877014,0
+940,Syriana,9369,Flash Boys: A Wall Street Revolt,0.33743762969970703,0
+940,Syriana,2955,The Undercover Economist,0.3261164128780365,0
+1353,Isn't She Great,2613,Valley of the Dolls,0.5806280374526978,1
+1353,Isn't She Great,5197,The Illustrated Mum,0.4532112181186676,1
+1353,Isn't She Great,8922,The Valley of Amazement,0.4501383900642395,1
+1813,Gran Torino,8571,Detroit: An American Autopsy,0.32504159212112427,0
+1813,Gran Torino,5937,Gang Leader for a Day: A Rogue Sociologist Takes to the Streets,0.28691595792770386,0
+1813,Gran Torino,1565,The Sicilian,0.27491316199302673,0
+4470,The Conformist,2802,Novecento. Un monologo,0.4012826383113861,1
+4470,The Conformist,1840,The Prince,0.3812364339828491,0
+4470,The Conformist,842,Baudolino,0.37235939502716064,0
+1912,Angela's Ashes,4550,"Angela's Ashes (Frank McCourt, #1)",0.518207311630249,1
+1912,Angela's Ashes,7256,Minding Frankie,0.44845518469810486,1
+1912,Angela's Ashes,369,"'Tis (Frank McCourt, #2)",0.4381963312625885,1
+1794,Clockstoppers,1368,The Time Machine/The Invisible Man,0.41186580061912537,1
+1794,Clockstoppers,1548,"Darkness, Take My Hand (Kenzie & Gennaro, #2)",0.41039717197418213,1
+1794,Clockstoppers,6796,"Crocodile Tears (Alex Rider, #8)",0.3997175693511963,0
+645,Broken Arrow,7963,American Sniper: The Autobiography of the Most Lethal Sniper in U.S. Military History,0.37195640802383423,0
+645,Broken Arrow,5451,Lone Survivor: The Eyewitness Account of Operation Redwing and the Lost Heroes of SEAL Team 10,0.354646235704422,0
+645,Broken Arrow,7594,SEAL Team Six: Memoirs of an Elite Navy SEAL Sniper,0.3312516510486603,0
+65,The Dark Knight,3593,Batman: A Death in the Family,0.4335532486438751,1
+65,The Dark Knight,2618,"Batman: Knightfall, Vol. 1: Broken Bat",0.40693145990371704,1
+65,The Dark Knight,7803,Batman: The Black Mirror,0.3943273723125458,0
+2652,Bathory: Countess of Blood,3884,Elizabeth: The Struggle for the Throne,0.4584961533546448,1
+2652,Bathory: Countess of Blood,7544,"The Lady of the Rivers (The Plantagenet and Tudor Novels, #1)",0.4377883970737457,1
+2652,Bathory: Countess of Blood,5325,Lady Audley's Secret,0.4354721009731293,1
+2886,Ondine,3860,The Little Mermaid,0.34031251072883606,0
+2886,Ondine,921,"The Sea, the Sea",0.33768630027770996,0
+2886,Ondine,5389,The Little Mermaid,0.3285095989704132,0
+738,Joy,2951,"Rich Dad, Poor Dad",0.4773677885532379,1
+738,Joy,3954,Rich Dad's Guide to Investing: What the Rich Invest in That the Poor and Middle Class Do Not!,0.3975354731082916,0
+738,Joy,3248,Tales of a Female Nomad: Living at Large in the World,0.39713966846466064,0
+3837,Gods and Monsters,1709,The Illustrated Man,0.31052300333976746,0
+3837,Gods and Monsters,3734,The Name of the Rose,0.3093014359474182,0
+3837,Gods and Monsters,3801,Jaws,0.3030567765235901,0
+3070,I Am Love,5227,Bella Tuscany,0.4349011480808258,1
+3070,I Am Love,7976,"The One You Love (Emma Holden Suspense Mystery, #1)",0.4330269694328308,1
+3070,I Am Love,6936,The Hand That First Held Mine,0.42812955379486084,1
+816,George of the Jungle,5484,"Born Free: A Lioness of Two Worlds (Story of Elsa, #1)",0.4052659571170807,1
+816,George of the Jungle,5717,Curious George Goes to the Hospital,0.40118059515953064,1
+816,George of the Jungle,3991,"The Fourth Bear (Nursery Crime, #2)",0.3912898898124695,0
+3953,Chain Letter,8144,My Friend Dahmer,0.3762841820716858,0
+3953,Chain Letter,3432,"Best Friends for Never (The Clique, #2)",0.349814236164093,0
+3953,Chain Letter,3435,"Revenge of the Wannabes (The Clique, #3)",0.3446860909461975,0
+1938,Blindness,1299,The Hot Zone: The Terrifying True Story of the Origins of the Ebola Virus,0.4043823778629303,1
+1938,Blindness,2181,"The Ghost Map: The Story of London's Most Terrifying Epidemic - and How It Changed Science, Cities, and the Modern World",0.3623813986778259,0
+1938,Blindness,8450,"City of Bones / City of Ashes / City of Glass / City of Fallen Angels / City of Lost Souls (The Mortal Instruments, #1-5)",0.3184276223182678,0
+3495,The Flower of Evil,8031,"The Kingmaker's Daughter (The Plantagenet and Tudor Novels, #4)",0.3365572988986969,0
+3495,The Flower of Evil,1293,"The Boleyn Inheritance (The Plantagenet and Tudor Novels, #10)",0.31813573837280273,0
+3495,The Flower of Evil,3079,"Anne of Ingleside (Anne of Green Gables, #6)",0.3001054525375366,0
+4726,Cheap Thrills,2951,"Rich Dad, Poor Dad",0.498858779668808,1
+4726,Cheap Thrills,3954,Rich Dad's Guide to Investing: What the Rich Invest in That the Poor and Middle Class Do Not!,0.3952026665210724,0
+4726,Cheap Thrills,3175,Rich Dad's Cashflow Quadrant: Rich Dad's Guide to Financial Freedom,0.38592901825904846,0
+692,Chicken Little,3194,"Birds of a Feather (Maisie Dobbs, #2)",0.3004505932331085,0
+692,Chicken Little,4267,The Pigeon Finds a Hot Dog!,0.2745712101459503,0
+692,Chicken Little,9788,All the Birds in the Sky,0.27066054940223694,0
+1978,Ready to Rumble,9460,"Dominic (Slater Brothers, #1)",0.3082830011844635,0
+1978,Ready to Rumble,3841,"Once and Always (Sequels, #1)",0.2777515947818756,0
+1978,Ready to Rumble,1746,The Dirt: Confessions of the World's Most Notorious Rock Band,0.2696634829044342,0
+1709,Space Pirate Captain Harlock,5906,"Courageous (The Lost Fleet, #3)",0.275468647480011,0
+1709,Space Pirate Captain Harlock,3084,H.M.S. Surprise,0.27533793449401855,0
+1709,Space Pirate Captain Harlock,3451,"Fearless (The Lost Fleet, #2)",0.2614285945892334,0
+136,Bee Movie,5636,Miles: The Autobiography,0.3298276662826538,0
+136,Bee Movie,2206,The Secret Life of Bees,0.32288122177124023,0
+136,Bee Movie,6602,"Evil at Heart (Archie Sheridan & Gretchen Lowell, #3)",0.3227629065513611,0
+350,Charlie's Angels,3897,"Stormbreaker (Alex Rider, #1)",0.400704562664032,1
+350,Charlie's Angels,9464,"Axel (Corps Security, #1)",0.3966633677482605,0
+350,Charlie's Angels,4153,"Eagle Strike (Alex Rider, #4)",0.3797394931316376,0
+1370,21,1442,Gifted Hands: The Ben Carson Story,0.35398274660110474,0
+1370,21,3308,Tangerine,0.33896857500076294,0
+1370,21,5203,Bringing Down the House: The Inside Story of Six M.I.T. Students Who Took Vegas for Millions,0.32596921920776367,0
+2622,The In Crowd,5704,"The Clique (The Clique, #1)",0.37738192081451416,0
+2622,The In Crowd,8042,The Psychopath Test: A Journey Through the Madness Industry,0.3708203434944153,0
+2622,The In Crowd,1468,Please Stop Laughing at Me... One Woman's Inspirational Story,0.36732912063598633,0
+2482,My Stepmother is an Alien,7049,Packing for Mars: The Curious Science of Life in the Void,0.35714489221572876,0
+2482,My Stepmother is an Alien,6226,Living Dead Girl,0.34685471653938293,0
+2482,My Stepmother is an Alien,9131,An Astronaut's Guide to Life on Earth,0.3348115086555481,0
+1599,The Age of Adaline,6602,"Evil at Heart (Archie Sheridan & Gretchen Lowell, #3)",0.4010760486125946,1
+1599,The Age of Adaline,6661,After,0.39694297313690186,0
+1599,The Age of Adaline,9702,Black-Eyed Susans,0.394717276096344,0
+682,The Love Guru,2415,The Monk Who Sold His Ferrari: A Fable About Fulfilling Your Dreams  Reaching Your Destiny,0.31753939390182495,0
+682,The Love Guru,1482,The Nose,0.3150712251663208,0
+682,The Love Guru,2782,"Simply Irresistible (Chinooks Hockey Team, #1)",0.3117348551750183,0
+1865,What a Girl Wants,4280,"Meet Samantha: An American Girl (American Girls: Samantha, #1)",0.4055432677268982,1
+1865,What a Girl Wants,9290,Jamaica Inn,0.3990185856819153,0
+1865,What a Girl Wants,7469,Battle Hymn of the Tiger Mother,0.3976430892944336,0
+210,Batman & Robin,8510,"Batman, Volume 2: The City of Owls",0.42991334199905396,1
+210,Batman & Robin,3593,Batman: A Death in the Family,0.42472368478775024,1
+210,Batman & Robin,6088,Batman: The Man Who Laughs,0.4167259931564331,1
+4006,"Fat, Sick & Nearly Dead",7385,Drop Dead Healthy: One Man's Humble Quest for Bodily Perfection,0.4123028516769409,1
+4006,"Fat, Sick & Nearly Dead",7015,"The 4-Hour Body: An Uncommon Guide to Rapid Fat-Loss, Incredible Sex, and Becoming Superhuman",0.3613089621067047,0
+4006,"Fat, Sick & Nearly Dead",1453,Touching the Void: The True Story of One Man's Miraculous Survival,0.36062854528427124,0
+2053,Joyeux Noël,1544,"The Winds of War (The Henry Family, #1)",0.40381598472595215,1
+2053,Joyeux Noël,5249,"An Army at Dawn: The War in North Africa, 1942-1943 (World War II Liberation Trilogy, #1)",0.3966866731643677,0
+2053,Joyeux Noël,2377,"War and Remembrance (The Henry Family, #2)",0.39187005162239075,0
+1267,Duplex,3704,"The Little House Collection (Little House, #1-9)",0.34267285466194153,0
+1267,Duplex,4913,The Little Old Lady Who Was Not Afraid of Anything,0.337677538394928,0
+1267,Duplex,9815,The Two-Family House,0.33483392000198364,0
+1458,Femme Fatale,1964,The Dance Of Anger: A Woman's Guide to Changing the Patterns of Intimate Relationships,0.3667038083076477,0
+1458,Femme Fatale,9210,Men Explain Things to Me,0.3609422445297241,0
+1458,Femme Fatale,4841,Nine Parts of Desire: The Hidden World of Islamic Women,0.3609217405319214,0
+4516,Wordplay,2695,Brain Droppings,0.44654369354248047,1
+4516,Wordplay,2303,Thank You for Smoking,0.42559152841567993,1
+4516,Wordplay,6691,Eating the Dinosaur,0.4108973741531372,1
+259,Speed 2: Cruise Control,4770,Johnny Mnemonic,0.3385831117630005,0
+259,Speed 2: Cruise Control,2331,"Raise the Titanic! (Dirk Pitt, #4)",0.33410876989364624,0
+259,Speed 2: Cruise Control,9835,"Hollywood Dirt (Hollywood Dirt, #1)",0.32640576362609863,0
+2499,Enter the Void,8603,Proof of Heaven: A Neurosurgeon's Journey into the Afterlife,0.3919692933559418,0
+2499,Enter the Void,4687,Sleepers,0.38743793964385986,0
+2499,Enter the Void,1648,Chronicle of a Death Foretold,0.38290032744407654,0
+4202,Foolish,8564,"The Best Man (Blue Heron, #1)",0.3862030506134033,0
+4202,Foolish,6461,Too Good to Be True,0.37464502453804016,0
+4202,Foolish,8091,"Hot Ticket (Sinners on Tour, #3)",0.3712630867958069,0
+4445,London to Brighton,549,Portrait of a Killer: Jack the Ripper - Case Closed,0.35575681924819946,0
+4445,London to Brighton,8740,"Down London Road (On Dublin Street, #2)",0.34186816215515137,0
+4445,London to Brighton,2047,"The Next Accident (Quincy & Rainie, #3)",0.3392578959465027,0
+3746,Trapeze,8092,"Double Time (Sinners on Tour, #5)",0.27252882719039917,0
+3746,Trapeze,7323,"The Perfect Play (Play by Play, #1)",0.21994033455848694,0
+3746,Trapeze,7332,"Backstage Pass (Sinners on Tour, #1)",0.21761883795261383,0
+4678,Super Hybrid,8258,"The Last Policeman (The Last Policeman, #1)",0.24925655126571655,0
+4678,Super Hybrid,4488,"Imitation in Death (In Death, #17)",0.2434224933385849,0
+4678,Super Hybrid,6275,Beat the Reaper (Peter Brown #1),0.24306519329547882,0
+2228,An American Carol,447,A Christmas Carol and Other Christmas Writings,0.3563106060028076,0
+2228,An American Carol,5354,I Am America (And So Can You!),0.35415613651275635,0
+2228,An American Carol,6707,American on Purpose: The Improbable Adventures of an Unlikely Patriot,0.34842649102211,0
+3386,Somewhere,4182,Beautiful Boy: A Father's Journey Through His Son's Addiction,0.40678659081459045,1
+3386,Somewhere,5197,The Illustrated Mum,0.34669268131256104,0
+3386,Somewhere,3024,George's Marvellous Medicine,0.34515202045440674,0
+1996,Someone Like You...,9835,"Hollywood Dirt (Hollywood Dirt, #1)",0.4174957871437073,1
+1996,Someone Like You...,9594,"Overruled (The Legal Briefs, #1)",0.4055526852607727,1
+1996,Someone Like You...,9161,"Tangled (Tangled, #1)",0.4023025631904602,1
+173,Happy Feet Two,2807,Mr. Popper's Penguins,0.4196518063545227,1
+173,Happy Feet Two,3780,"Swallows and Amazons (Swallows and Amazons, #1)",0.31872695684432983,0
+173,Happy Feet Two,4610,"Mummies in the Morning (Magic Tree House, #3)",0.306688517332077,0
+3565,Freddy's Dead: The Final Nightmare,5492,There's a Nightmare in My Closet,0.42688852548599243,1
+3565,Freddy's Dead: The Final Nightmare,856,Nightmares and Dreamscapes,0.41764408349990845,1
+3565,Freddy's Dead: The Final Nightmare,5162,The Howling,0.412021666765213,1
+2503,The Homesman,3327,The Beet Queen,0.44241106510162354,1
+2503,The Homesman,4509,Women Who Run With the Wolves: Myths and Stories of the Wild Woman Archetype,0.42593222856521606,1
+2503,The Homesman,2090,One Thousand White Women: The Journals of May Dodd (One Thousand White Women#1),0.4146033525466919,1
+4609,Wendy and Lucy,6970,The Search,0.4472459554672241,1
+4609,Wendy and Lucy,5677,Officer Buckle & Gloria,0.4282672107219696,1
+4609,Wendy and Lucy,6517,Dog on It (A Chet and Bernie Mystery #1),0.410151869058609,1
+4729,Open Secret,1329,"The Mirror Crack'd from Side to Side (Miss Marple, #9)",0.3669176995754242,0
+4729,Open Secret,2944,"They Do It with Mirrors (Miss Marple, #6)",0.3412185311317444,0
+4729,Open Secret,1963,"Nemesis (Miss Marple, #12)",0.3210183382034302,0
+471,Little Nicky,7098,The Darkest Lie (Lords of the Underworld #6),0.38197144865989685,0
+471,Little Nicky,6891,The Darkest Passion (Lords of the Underworld #5),0.3728845417499542,0
+471,Little Nicky,6506,The Darkest Whisper (Lords of the Underworld #4),0.37230217456817627,0
+856,Turbulence,4947,Flight of the Intruder (Jake Grafton #1),0.36995258927345276,0
+856,Turbulence,640,Airframe,0.28043389320373535,0
+856,Turbulence,5659,"Flight of the Old Dog (Patrick McLanahan, #1)",0.2732491195201874,0
+1125,Cleopatra,826,The Memoirs of Cleopatra,0.5184252262115479,1
+1125,Cleopatra,6666,Cleopatra's Daughter,0.4919191896915436,1
+1125,Cleopatra,3554,Antony and Cleopatra,0.47220781445503235,1
+2234,A Dangerous Method,3773,Man and His Symbols,0.4510663151741028,1
+2234,A Dangerous Method,5355,"Memories, Dreams, Reflections",0.4379567503929138,1
+2234,A Dangerous Method,3402,The Interpretation of Dreams,0.4176005721092224,1
+4509,Benji,4858,A Dog's Life: The Autobiography of a Stray,0.39663833379745483,0
+4509,Benji,7750,"The Abduction (Theodore Boone, #2)",0.35252606868743896,0
+4509,Benji,4800,"Kidnapped (David Balfour, #1)",0.3462035059928894,0
+2504,Juwanna Mann,6407,The Book of Basketball: The NBA According to The Sports Guy,0.4094364643096924,1
+2504,Juwanna Mann,8208,"Dream Team: How Michael, Magic, Larry, Charles, and the Greatest Team of All Time Conquered the World and Changed the Game of Basketball Forever",0.3466432988643646,0
+2504,Juwanna Mann,9715,Kulti,0.332912802696228,0
+1317,White Squall,4055,Captain Blood,0.4681767225265503,1
+1317,White Squall,8757,The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics,0.43485715985298157,1
+1317,White Squall,2067,"The Mysterious Island (Extraordinary Voyages, #12)",0.42977598309516907,1
+3000,The Last Dragon,180,Way of the Peaceful Warrior: A Book That Changes Lives,0.3388643264770508,0
+3000,The Last Dragon,7111,"The Emperor of Nihon-Ja (Ranger's Apprentice, #10)",0.2887066602706909,0
+3000,The Last Dragon,8518,"Seducing Cinderella (Fighting for Love, #1)",0.2885764539241791,0
+3604,Sunshine Cleaning,1023,Belly Laughs: The Naked Truth About Pregnancy and Childbirth,0.36546826362609863,0
+3604,Sunshine Cleaning,9859,A Mother's Reckoning: Living in the Aftermath of Tragedy,0.3467691242694855,0
+3604,Sunshine Cleaning,9816,"Orphan X (Orphan X, #1)",0.34506863355636597,0
+653,This Means War,7336,"A Lot like Love (FBI/US Attorney, #2)",0.33955398201942444,0
+653,This Means War,6847,"Something About You (FBI/US Attorney, #1)",0.3151368200778961,0
+653,This Means War,7853,"About That Night (FBI/US Attorney, #3)",0.2900713086128235,0
+4605,When the Cat's Away,8043,A Street Cat Named Bob: How One Man and His Cat Found Hope on the Streets,0.43724340200424194,1
+4605,When the Cat's Away,1324,"Cat Among the Pigeons (Hercule Poirot, #32)",0.39509862661361694,0
+4605,When the Cat's Away,8556,How to Tell If Your Cat Is Plotting to Kill You,0.3861299753189087,0
+4643,The Canyons,8131,"Wicked Nights (Angels of the Dark, #1)",0.48050034046173096,1
+4643,The Canyons,8410,"Seduced in the Dark (The Dark Duet, #2)",0.4549270272254944,1
+4643,The Canyons,3352,"Angels in America, Part Two: Perestroika",0.4399983286857605,1
+717,Jack Reacher,4377,"One Shot (Jack Reacher, #9)",0.37084686756134033,0
+717,Jack Reacher,4378,"Die Trying (Jack Reacher, #2)",0.3647470474243164,0
+717,Jack Reacher,1561,"Without Fail (Jack Reacher, #6)",0.36121660470962524,0
+1376,In & Out,3927,Stone Butch Blues,0.3176114559173584,0
+1376,In & Out,9473,Scoring Wilder,0.3074015974998474,0
+1376,In & Out,4713,Lies My Teacher Told Me,0.3025610148906708,0
+1128,The Mirror Has Two Faces,5685,"The Viscount Who Loved Me (Bridgertons, #2)",0.4641605615615845,1
+1128,The Mirror Has Two Faces,3625,"Romancing Mister Bridgerton (Bridgertons, #4)",0.45563745498657227,1
+1128,The Mirror Has Two Faces,3632,"When He was Wicked (Bridgertons, #6)",0.4526555836200714,1
+1493,Wanderlust,4967,"Random Family: Love, Drugs, Trouble, and Coming of Age in the Bronx",0.4151628613471985,1
+1493,Wanderlust,9848,Evicted: Poverty and Profit in the American City,0.41497451066970825,1
+1493,Wanderlust,6161,"Money, and the Law of Attraction: Learning to Attract Wealth, Health, and Happiness",0.40837472677230835,1
+3811,Network,9457,"Mr. Kiss and Tell (Veronica Mars, #2)",0.30989494919776917,0
+3811,Network,142,Them: Adventures with Extremists,0.306119441986084,0
+3811,Network,9150,"Hardwired (Hacker, #1)",0.29591888189315796,0
+295,The Tourist,7981,The King's Agent,0.3281930685043335,0
+295,The Tourist,4970,Legally Blonde,0.2792451083660126,0
+295,The Tourist,138,Brokeback Mountain,0.2789396047592163,0
+765,Almost Famous,1860,Our Band Could Be Your Life: Scenes from the American Indie Underground 1981-1991,0.3946589231491089,0
+765,Almost Famous,2600,I'm with the Band: Confessions of a Groupie,0.37324362993240356,0
+765,Almost Famous,7902,"Breathe (Sea Breeze, #1)",0.3626754879951477,0
+2740,National Lampoon's Loaded Weapon 1,2913,"Death at La Fenice (Commissario Brunetti, #1)",0.4884124994277954,1
+2740,National Lampoon's Loaded Weapon 1,7019,"The 9th Judgment  (Women's Murder Club, #9)",0.46654069423675537,1
+2740,National Lampoon's Loaded Weapon 1,1078,"The 6th Target (Women's Murder Club, #6)",0.4470616579055786,1
+3041,The Gift,2891,"The Perfect Husband (Quincy & Rainie, #1)",0.30235159397125244,0
+3041,The Gift,7815,The Marriage Plot,0.300884485244751,0
+3041,The Gift,8488,"The Marriage Mistake (Marriage to a Billionaire, #3)",0.30018898844718933,0
+3492,Morvern Callar,4542,The Vanishing Act of Esme Lennox,0.3481089472770691,0
+3492,Morvern Callar,6186,The Story of Edgar Sawtelle,0.34125906229019165,0
+3492,Morvern Callar,1098,What Was She Thinking? [Notes on a Scandal],0.33207768201828003,0
+4520,Sholem Aleichem: Laughing In The Darkness,1404,Waiting for Godot,0.4018172025680542,1
+4520,Sholem Aleichem: Laughing In The Darkness,4171,Arsenic and Old Lace,0.3905943036079407,0
+4520,Sholem Aleichem: Laughing In The Darkness,5240,The Overcoat,0.37399572134017944,0
+1722,Dracula 2000,1380,Dracula,0.4861167371273041,1
+1722,Dracula 2000,4388,Dracula (Marvel Illustrated),0.4410179555416107,1
+1722,Dracula 2000,968,'Salem's Lot,0.43346476554870605,1
+2251,My All American,8208,"Dream Team: How Michael, Magic, Larry, Charles, and the Greatest Team of All Time Conquered the World and Changed the Game of Basketball Forever",0.2795967757701874,0
+2251,My All American,6795,When the Game Was Ours,0.2750501334667206,0
+2251,My All American,1539,The Five Dysfunctions of a Team: A Leadership Fable,0.24867349863052368,0
+1888,Eddie the Eagle,5242,The Endurance: Shackleton's Legendary Antarctic Expedition,0.34044599533081055,0
+1888,Eddie the Eagle,3613,The Perfect Storm: A True Story of Men Against the Sea,0.3281595706939697,0
+1888,Eddie the Eagle,6388,Paths of Glory,0.3016963601112366,0
+1602,Blue Crush,5373,"Sea Swept (Chesapeake Bay Saga, #1)",0.4200029671192169,1
+1602,Blue Crush,5234,"Rising Tides (Chesapeake Bay Saga, #2)",0.4057321548461914,1
+1602,Blue Crush,1200,Goodnight Nobody,0.3975117802619934,0
+1943,Without Limits,8587,"The Secret Race: Inside the Hidden World of the Tour de France: Doping, Cover-ups, and Winning at All Costs",0.2690902650356293,0
+1943,Without Limits,5502,Ball Four,0.22229737043380737,0
+1943,Without Limits,6637,"Born to Run: A Hidden Tribe, Superathletes, and the Greatest Race the World Has Never Seen",0.21252775192260742,0
+4032,Super,1758,Identity Crisis,0.4261596202850342,1
+4032,Super,4075,Superman: Whatever Happened to the Man of Tomorrow?,0.4008501470088959,1
+4032,Super,6088,Batman: The Man Who Laughs,0.3880329132080078,0
+4399,In Her Line of Fire,4800,"Kidnapped (David Balfour, #1)",0.318524569272995,0
+4399,In Her Line of Fire,7592,"Lost in Shangri-la: A True Story of Survival, Adventure, and the Most Incredible Rescue Mission of World War II",0.3074297308921814,0
+4399,In Her Line of Fire,2109,Up Country,0.30742546916007996,0
+4545,Good Kill,4947,Flight of the Intruder (Jake Grafton #1),0.4890139698982239,1
+4545,Good Kill,7963,American Sniper: The Autobiography of the Most Lethal Sniper in U.S. Military History,0.4053215980529785,1
+4545,Good Kill,8619,"Threat Vector (Jack Ryan Universe, #15)",0.3867064118385315,0
+3582,Our Idiot Brother,7040,"Unleashed (Ross Siblings, #1)",0.40623199939727783,1
+3582,Our Idiot Brother,7485,"Forever Mine (The Moreno Brothers, #1)",0.375266969203949,0
+3582,Our Idiot Brother,9111,"Rival (Fall Away, #2)",0.3558034896850586,0
+2929,The Secret Life of Bees,2995,Scarlett,0.47001123428344727,1
+2929,The Secret Life of Bees,6428,The Help,0.44463637471199036,1
+2929,The Secret Life of Bees,2884,"Sullivan's Island (Lowcountry Tales, #1)",0.44334959983825684,1
+2800,The Funeral,3765,My Brother Sam Is Dead,0.4604082703590393,1
+2800,The Funeral,4687,Sleepers,0.4518014192581177,1
+2800,The Funeral,2523,Requiem for a Dream,0.40829601883888245,1
+3543,Animals,4858,A Dog's Life: The Autobiography of a Stray,0.4337869882583618,1
+3543,Animals,3007,A Knight in Shining Armor,0.42703649401664734,1
+3543,Animals,6149,Ape House,0.42588379979133606,1
+626,The X Files,9141,"No Place to Hide: Edward Snowden, the NSA, and the U.S. Surveillance State",0.3599458336830139,0
+626,The X Files,5168,The Onion Field,0.32199686765670776,0
+626,The X Files,1584,"Pattern Recognition (Blue Ant, #1)",0.31762608885765076,0
+4755,The Image Revolution,3527,Understanding Comics: The Invisible Art,0.4809291958808899,1
+4755,The Image Revolution,6516,Batman: Whatever Happened to the Caped Crusader?,0.4209701418876648,1
+4755,The Image Revolution,3593,Batman: A Death in the Family,0.4144675135612488,1
+1229,A Million Ways to Die in the West,597,"The Good Husband of Zebra Drive (No. 1 Ladies' Detective Agency, #8)",0.30050578713417053,0
+1229,A Million Ways to Die in the West,9695,"Girl Waits with Gun (Kopp Sisters, #1)",0.29150182008743286,0
+1229,A Million Ways to Die in the West,9652,"Bound by Honor (Born in Blood Mafia Chronicles, #1)",0.28073787689208984,0
+1945,The Best Offer,1049,The Aeneid,0.41861623525619507,1
+1945,The Best Offer,4461,The Lives of the Artists,0.36781755089759827,0
+1945,The Best Offer,632,A Portrait of the Artist as a Young Man,0.3635939657688141,0
+3008,Swimfan,2782,"Simply Irresistible (Chinooks Hockey Team, #1)",0.3996153473854065,0
+3008,Swimfan,2783,"See Jane Score (Chinooks Hockey Team, #2)",0.3854702115058899,0
+3008,Swimfan,5674,Bet Me,0.3854377269744873,0
+441,Robots,2602,The Complete Robot (Robot #0.3),0.3388596177101135,0
+441,Robots,2336,The Robots of Dawn (Robot #3),0.336886465549469,0
+441,Robots,2337,The Caves of Steel (Robot #1),0.32201308012008667,0
+2479,Radio Days,1209,A Tree Grows in Brooklyn,0.3994566798210144,0
+2479,Radio Days,775,Mother Night,0.38967418670654297,0
+2479,Radio Days,5277,The Wednesday Wars,0.3852148950099945,0
+3895,Sinister,4828,Fatal Vision,0.5221889615058899,1
+3895,Sinister,5601,"The Interpretation of Murder (Freud, #1)",0.5063560009002686,1
+3895,Sinister,4687,Sleepers,0.504795253276825,1
+503,The Adventures of Rocky & Bullwinkle,3674,Heart of a Dog,0.26304906606674194,0
+503,The Adventures of Rocky & Bullwinkle,6886,"Bakuman, Band 1: Traum und Realität",0.249559223651886,0
+503,The Adventures of Rocky & Bullwinkle,9466,"The Job (Fox and O'Hare, #3)",0.2337285429239273,0
+1389,Old Dogs,6210,"Charlie Bone and the Shadow (The Children of the Red King, #7)",0.32298359274864197,0
+1389,Old Dogs,2546,"Charlie Bone and the Hidden King (The Children of the Red King, #5)",0.3188709020614624,0
+1389,Old Dogs,526,"Charlie and the Chocolate Factory (Charlie Bucket, #1)",0.315518856048584,0
+1884,The Gambler,2230,Fooled by Randomness: The Hidden Role of Chance in Life and in the Markets,0.47751733660697937,1
+1884,The Gambler,105,Liar's Poker,0.44711780548095703,1
+1884,The Gambler,4054,Wiseguy,0.41379672288894653,1
+1228,Drillbit Taylor,7382,Little Princes: One Man's Promise to Bring Home the Lost Children of Nepal,0.3337700068950653,0
+1228,Drillbit Taylor,3433,"Invasion of the Boy Snatchers (The Clique, #4)",0.30749550461769104,0
+1228,Drillbit Taylor,5341,"SilverFin (Young Bond, #1)",0.29663634300231934,0
+3090,Killer Joe,958,Boy's Life,0.3727690875530243,0
+3090,Killer Joe,6417,"The Scarecrow (Jack McEvoy, #2)",0.35675424337387085,0
+3090,Killer Joe,639,A Case of Need,0.35539770126342773,0
+3209,The Lost Boys,7498,"Bite Club (The Morganville Vampires, #10)",0.49071648716926575,1
+3209,The Lost Boys,7112,"Ghost Town (The Morganville Vampires, #9)",0.4796818196773529,1
+3209,The Lost Boys,8037,"Kiss the Dead (Anita Blake, Vampire Hunter #21)",0.4620344936847687,1
+4151,A Funny Thing Happened on the Way to the Forum,7491,"Captive Prince (Captive Prince, #1)",0.356501966714859,0
+4151,A Funny Thing Happened on the Way to the Forum,8810,"Captive Prince: Volume Two (Captive Prince, #2)",0.3364441394805908,0
+4151,A Funny Thing Happened on the Way to the Forum,1295,"The Virgin's Lover (The Plantagenet and Tudor Novels, #13)",0.3292410969734192,0
+2552,Wild,8022,Wild: From Lost to Found on the Pacific Crest Trail,0.41047409176826477,1
+2552,Wild,5604,"Dawn on a Distant Shore (Wilderness, #2)",0.40048879384994507,1
+2552,Wild,2990,"Into the Wilderness (Wilderness, #1)",0.3686525225639343,0
+4532,The Other Dream Team,8208,"Dream Team: How Michael, Magic, Larry, Charles, and the Greatest Team of All Time Conquered the World and Changed the Game of Basketball Forever",0.43731018900871277,1
+4532,The Other Dream Team,6795,When the Game Was Ours,0.4294404983520508,1
+4532,The Other Dream Team,6407,The Book of Basketball: The NBA According to The Sports Guy,0.4274336099624634,1
+1584,Like Mike,6407,The Book of Basketball: The NBA According to The Sports Guy,0.4076259136199951,1
+1584,Like Mike,8208,"Dream Team: How Michael, Magic, Larry, Charles, and the Greatest Team of All Time Conquered the World and Changed the Game of Basketball Forever",0.3935425579547882,0
+1584,Like Mike,4528,The Jordan Rules,0.37394389510154724,0
+4312,Crowsnest,9627,All the Missing Girls,0.34197181463241577,0
+4312,Crowsnest,9105,Missing You,0.3322654962539673,0
+4312,Crowsnest,5969,"Found (The Missing, #1)",0.3192717432975769,0
+3379,We Need to Talk About Kevin,9859,A Mother's Reckoning: Living in the Aftermath of Tragedy,0.44334107637405396,1
+3379,We Need to Talk About Kevin,331,Sickened: The Memoir of a Munchausen by Proxy Childhood,0.410285621881485,1
+3379,We Need to Talk About Kevin,2790,"A Child Called ""It"" (Dave Pelzer #1)",0.3846578598022461,0
+1777,Paul Blart: Mall Cop,2690,"Black Cherry Blues (Dave Robicheaux, #3)",0.33509010076522827,0
+1777,Paul Blart: Mall Cop,2624,Leading Change,0.3322817385196686,0
+1777,Paul Blart: Mall Cop,2265,"The Man Who Smiled (Kurt Wallander, #4)",0.30821096897125244,0
+2933,Invaders from Mars,8159,"The Invaders (Brotherband Chronicles, #2)",0.3684913218021393,0
+2933,Invaders from Mars,1378,Starship Troopers,0.36808082461357117,0
+2933,Invaders from Mars,8219,Bomb: The Race to Build—and Steal—the World's Most Dangerous Weapon,0.3512050211429596,0
+3652,The Visit,4938,20th Century Ghosts,0.4031112492084503,1
+3652,The Visit,5893,"Scary Stories to Tell in the Dark (Scary Stories, #1)",0.39254841208457947,0
+3652,The Visit,4913,The Little Old Lady Who Was Not Afraid of Anything,0.3850311040878296,0
+2784,The Crocodile Hunter: Collision Course,4228,Crocodile on the Sandbank (Amelia Peabody #1),0.3369080722332001,0
+2784,The Crocodile Hunter: Collision Course,4935,"Lyle, Lyle, Crocodile",0.3111858069896698,0
+2784,The Crocodile Hunter: Collision Course,3971,"Area 7 (Shane Schofield, #2)",0.3028620481491089,0
+1093,Deep Rising,1408,In the Heart of the Sea: The Tragedy of the Whaleship Essex,0.3840681314468384,0
+1093,Deep Rising,3613,The Perfect Storm: A True Story of Men Against the Sea,0.30974921584129333,0
+1093,Deep Rising,6494,"Relentless (The Lost Fleet, #5)",0.29484421014785767,0
+405,The Fast and the Furious: Tokyo Drift,3998,Ice Station Zebra,0.30651015043258667,0
+405,The Fast and the Furious: Tokyo Drift,1412,Underground: The Tokyo Gas Attack and the Japanese Psyche,0.30251771211624146,0
+405,The Fast and the Furious: Tokyo Drift,3401,"Simple Genius (Sean King & Michelle Maxwell, #3)",0.2900031805038452,0
+189,Noah,4498,"Isaac's Storm: A Man, a Time, and the Deadliest Hurricane in History",0.39890676736831665,0
+189,Noah,184,The Johnstown Flood,0.3945941925048828,0
+189,Noah,3613,The Perfect Storm: A True Story of Men Against the Sea,0.3893339931964874,0
+2031,The Informant!,4070,All Marketers Are Liars: The Power of Telling Authentic Stories in a Low-Trust World,0.3282269835472107,0
+2031,The Informant!,4898,The Greatest Salesman in the World,0.31703871488571167,0
+2031,The Informant!,8398,To Sell Is Human: The Surprising Truth About Moving Others,0.3093341290950775,0
+3233,Nightcrawler,9466,"The Job (Fox and O'Hare, #3)",0.41342389583587646,1
+3233,Nightcrawler,5168,The Onion Field,0.39618629217147827,0
+3233,Nightcrawler,9483,"As Chimney Sweepers Come to Dust (Flavia de Luce, #7)",0.3904770612716675,0
+828,Kill Bill: Vol. 1,3264,"Mistress of the Art of Death (Mistress of the Art of Death, #1)",0.421924889087677,1
+828,Kill Bill: Vol. 1,3864,"Vengeance in Death (In Death, #6)",0.3812428116798401,0
+828,Kill Bill: Vol. 1,3287,"Judgment in Death (In Death, #11)",0.37376731634140015,0
+2699,The Diving Bell and the Butterfly,4819,Almost French: Love and a New Life in Paris,0.4643751382827759,1
+2699,The Diving Bell and the Butterfly,400,My Life in France,0.46289384365081787,1
+2699,The Diving Bell and the Butterfly,4250,The Diving Bell and the Butterfly,0.4511820077896118,1
+4157,River's Edge,5601,"The Interpretation of Murder (Freud, #1)",0.3322175145149231,0
+4157,River's Edge,7987,"Victims (Alex Delaware, #27)",0.3091462254524231,0
+4157,River's Edge,9358,"Killing Sarai (In the Company of Killers, #1)",0.30889320373535156,0
+2023,The Animal,1040,Marley and Me: Life and Love With the World's Worst Dog,0.3299106955528259,0
+2023,The Animal,8043,A Street Cat Named Bob: How One Man and His Cat Found Hope on the Streets,0.32679760456085205,0
+2023,The Animal,9487,"Monster in His Eyes (Monster in His Eyes, #1)",0.32611966133117676,0
+993,Jade,2863,"D is for Deadbeat (Kinsey Millhone, #4)",0.34334129095077515,0
+993,Jade,7336,"A Lot like Love (FBI/US Attorney, #2)",0.3343932628631592,0
+993,Jade,6847,"Something About You (FBI/US Attorney, #1)",0.33305513858795166,0
+4580,Love in the Time of Monsters,4707,"The Unusual Suspects (The Sisters Grimm, #2)",0.38674503564834595,0
+4580,Love in the Time of Monsters,3671,"Once Upon a Crime (The Sisters Grimm, #4)",0.3614670932292938,0
+4580,Love in the Time of Monsters,6439,"The Everafter War (The Sisters Grimm, #7)",0.3608238399028778,0
+620,The Insider,2130,"The Truth (Discworld, #25; Industrial Revolution, #2)",0.3731556832790375,0
+620,The Insider,8968,The Everything Store: Jeff Bezos and the Age of Amazon,0.34529805183410645,0
+620,The Insider,2303,Thank You for Smoking,0.3411601781845093,0
+3908,Dave Chappelle's Block Party,2693,Live from New York: An Uncensored History of Saturday Night Live,0.3147313594818115,0
+3908,Dave Chappelle's Block Party,1679,Chuck Klosterman IV: A Decade of Curious People and Dangerous Ideas,0.2929461896419525,0
+3908,Dave Chappelle's Block Party,882,"The Great Shark Hunt: Strange Tales from a Strange Time (The Gonzo Papers, #1)",0.27590614557266235,0
+333,Transcendence,9480,"The Innovators: How a Group of  Hackers, Geniuses and Geeks Created the Digital Revolution",0.4450306296348572,1
+333,Transcendence,7367,The Grand Design,0.4229103922843933,1
+333,Transcendence,1416,Accelerando (Singularity),0.40986984968185425,1
+4393,The Specials,8426,"Vicious (Villains, #1)",0.446453720331192,1
+4393,The Specials,4254,Crisis on Infinite Earths,0.4353010058403015,1
+4393,The Specials,3535,X-Men: The Dark Phoenix Saga,0.4307526648044586,1
+1040,The Flintstones,2443,The Monster at the End of this Book,0.3207908272743225,0
+1040,The Flintstones,3757,The Revenge of the Baby-Sat,0.3054727017879486,0
+1040,The Flintstones,1707,Homicidal Psycho Jungle Cat: A Calvin and Hobbes Collection,0.3017255961894989,0
+1252,Marie Antoinette,7417,Madame Tussaud: A Novel of the French Revolution,0.46313756704330444,1
+1252,Marie Antoinette,1371,Marie Antoinette: The Journey,0.4528711438179016,1
+1252,Marie Antoinette,400,My Life in France,0.4028010070323944,1
+2812,Think Like a Man,1524,The Art of Seduction,0.415652871131897,1
+2812,Think Like a Man,5668,The Seven Principles for Making Marriage Work: A Practical Guide from the Country's Foremost Relationship Expert,0.39628714323043823,0
+2812,Think Like a Man,1964,The Dance Of Anger: A Woman's Guide to Changing the Patterns of Intimate Relationships,0.396152138710022,0
+3533,Galaxina,2821,"Falling Free (Vorkosigan Saga, #4)",0.18079285323619843,0
+3533,Galaxina,7456,"Zita the Spacegirl (Zita the Spacegirl, #1)",0.17863886058330536,0
+3533,Galaxina,2819,"The Warrior's Apprentice (Vorkosigan Saga, #2)",0.17664834856987,0
+3477,College,9144,"Graduation Day (The Testing, #3)",0.3813650608062744,0
+3477,College,7410,"We'll Always Have Summer (Summer, #3)",0.36655986309051514,0
+3477,College,9906,"The Score (Off-Campus, #3)",0.3607464134693146,0
+402,The Rundown,3555,The Story of a Shipwrecked Sailor,0.3959799110889435,0
+402,The Rundown,4182,Beautiful Boy: A Father's Journey Through His Son's Addiction,0.3581274747848511,0
+402,The Rundown,1647,Of Love and Other Demons,0.3501163423061371,0
+4299,The Blue Bird,6653,Alice's Adventures in Wonderland,0.5207136273384094,1
+4299,The Blue Bird,1097,The Complete Stories and Poems,0.5184996128082275,1
+4299,The Blue Bird,1061,Alice in Wonderland,0.49802112579345703,1
+800,Red Tails,5249,"An Army at Dawn: The War in North Africa, 1942-1943 (World War II Liberation Trilogy, #1)",0.46952518820762634,1
+800,Red Tails,2357,"Band of Brothers: E Company, 506th Regiment, 101st Airborne from Normandy to Hitler's Eagle's Nest",0.44360464811325073,1
+800,Red Tails,4290,Flyboys: A True Story of Courage,0.3936178684234619,0
+399,Open Season,5485,"Brown Bear, Brown Bear, What Do You See?",0.3182826042175293,0
+399,Open Season,4282,We're Going on a Bear Hunt,0.31273189187049866,0
+399,Open Season,2213,The Call of the Wild/White Fang,0.2915688753128052,0
+4084,The Triplets of Belleville,2913,"Death at La Fenice (Commissario Brunetti, #1)",0.33929479122161865,0
+4084,The Triplets of Belleville,5542,Madeline's Rescue,0.33875328302383423,0
+4084,The Triplets of Belleville,2802,Novecento. Un monologo,0.3076750338077545,0
+846,Stuck on You,2996,"Natural Born Charmer (Chicago Stars, #7)",0.35868367552757263,0
+846,Stuck on You,2997,"It Had to Be You (Chicago Stars, #1)",0.3148656189441681,0
+846,Stuck on You,2999,"Heaven, Texas (Chicago Stars, #2)",0.31232088804244995,0
+791,Goosebumps,7337,"Demonglass (Hex Hall, #2)",0.50946044921875,1
+791,Goosebumps,4181,The Exorcist,0.5087019801139832,1
+791,Goosebumps,8368,"The Screaming Staircase (Lockwood & Co., #1)",0.5086742639541626,1
+922,Knowing,1427,"A Wrinkle in Time (A Wrinkle in Time Quintet, #1)",0.3951464891433716,0
+922,Knowing,1368,The Time Machine/The Invisible Man,0.3934401869773865,0
+922,Knowing,8420,The Time Keeper,0.38420945405960083,0
+820,Casper,6162,"Ghostgirl (Ghostgirl, #1)",0.45010921359062195,1
+820,Casper,4938,20th Century Ghosts,0.4285033941268921,1
+820,Casper,5248,Deep and Dark and Dangerous (A Ghost Story),0.4222690463066101,1
+540,Hollywood Homicide,462,The Client,0.3635151982307434,0
+540,Hollywood Homicide,5168,The Onion Field,0.35822728276252747,0
+540,Hollywood Homicide,6192,"The Brass Verdict (Harry Bosch, #14; Mickey Haller, #2; Harry Bosch Universe, #17)",0.35017943382263184,0
+2540,Krampus,5850,Rudolph the Red-Nosed Reindeer,0.4446781575679779,1
+2540,Krampus,4504,The Best Christmas Pageant Ever (The Herdmans #1),0.41561034321784973,1
+2540,Krampus,5893,"Scary Stories to Tell in the Dark (Scary Stories, #1)",0.413892924785614,1
+164,Lethal Weapon 4,3815,"Point of Impact (Bob Lee Swagger, #1)",0.3419385552406311,0
+164,Lethal Weapon 4,4909,"Pacific Vortex! (Dirk Pitt, #1)",0.32705140113830566,0
+164,Lethal Weapon 4,6035,"Flaggermusmannen (Harry Hole, #1)",0.30989760160446167,0
+401,Enemy at the Gates,5250,"Stalingrad: The Fateful Siege, 1942–1943",0.33529338240623474,0
+401,Enemy at the Gates,5249,"An Army at Dawn: The War in North Africa, 1942-1943 (World War II Liberation Trilogy, #1)",0.23205070197582245,0
+401,Enemy at the Gates,4944,The Manchurian Candidate (Movie Tie-In Edition),0.22093531489372253,0
+2893,Fateless,4392,A Color of His Own,0.3872855305671692,0
+2893,Fateless,4433,Black Boy,0.3793042302131653,0
+2893,Fateless,5900,Wir Kinder vom Bahnhof Zoo,0.37684106826782227,0
+1368,Identity Thief,933,Trouble Is My Business,0.3646596670150757,0
+1368,Identity Thief,2265,"The Man Who Smiled (Kurt Wallander, #4)",0.35207608342170715,0
+1368,Identity Thief,2042,Chasing the Dime,0.33522793650627136,0
+3264,Shadow of the Vampire,4395,The Omen,0.29443100094795227,0
+3264,Shadow of the Vampire,5162,The Howling,0.2520560026168823,0
+3264,Shadow of the Vampire,1196,Faust: First Part,0.23750564455986023,0
+1348,Aloha,5451,Lone Survivor: The Eyewitness Account of Operation Redwing and the Lost Heroes of SEAL Team 10,0.3189762532711029,0
+1348,Aloha,2700,Black Hawk Down,0.3044717609882355,0
+1348,Aloha,4502,"The Ghost Brigades (Old Man's War, #2)",0.30394265055656433,0
+3496,The Greatest,6661,After,0.3988020122051239,0
+3496,The Greatest,3139,"Roses are Red (Alex Cross, #6)",0.38988369703292847,0
+3496,The Greatest,1395,"Rose in Bloom (Eight Cousins, #2)",0.37948906421661377,0
+521,The Terminal,4945,Invitation to a Beheading,0.37912940979003906,0
+521,The Terminal,8946,"Taking Shots (Assassins, #1)",0.35821205377578735,0
+521,The Terminal,6512,"Metro 2033 (METRO, #1)",0.34895968437194824,0
+1064,The Specialist,5544,The Story of Ferdinand,0.4000962972640991,1
+1064,The Specialist,3671,"Once Upon a Crime (The Sisters Grimm, #4)",0.37236329913139343,0
+1064,The Specialist,1172,Runaway,0.3674219846725464,0
+2380,The Wraith,9024,"Crashed (Driven, #3)",0.3999580144882202,0
+2380,The Wraith,9023,"Fueled (Driven, #2)",0.3995476961135864,0
+2380,The Wraith,4389,"Point Blank (Alex Rider, #2)",0.38677603006362915,0

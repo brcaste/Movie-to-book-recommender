@@ -18,11 +18,11 @@ recommendations. This project demonstrates how AI/ML can improve user engagement
 
 ## How to Run the project 
 ### Install Dependencies 
-```bash 
+```code 
 pip install -r requirements.txt
 ```
 ### Run the application 
-```bash
+```code
 python main.py
 ``` 
 
