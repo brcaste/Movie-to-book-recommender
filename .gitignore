@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+dist/
+build/
+*.so
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Raw data (large files — not tracked)
+data/raw/
+
+# Logs
+*.log
+
+# Claude Code working directory
+.claude/
+
+# Processed data and embeddings are tracked (needed for deployment)

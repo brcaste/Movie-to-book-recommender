@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Movie to Book Recommender</title>
+  <link rel="stylesheet" href="/static/style.css" />
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1>Movie &rarr; Book</h1>
+      <p class="subtitle">Type a movie you love and discover books you might enjoy.</p>
+    </header>
+
+    <div class="search-box">
+      <div class="input-wrapper">
+        <input
+          type="text"
+          id="movieInput"
+          placeholder="e.g. Interstellar, Titanic, The Dark Knight..."
+          autocomplete="off"
+          aria-label="Movie title"
+          aria-autocomplete="list"
+          aria-controls="dropdown"
+        />
+        <ul id="dropdown" class="dropdown hidden" role="listbox"></ul>
+      </div>
+      <button id="searchBtn" onclick="getRecommendations()">Search</button>
+    </div>
+
+    <div id="error" class="error hidden"></div>
+
+    <div id="results" class="results hidden">
+      <h2 id="resultsHeading"></h2>
+      <div id="cards" class="cards"></div>
+    </div>
+
+    <div id="loading" class="loading hidden">
+      <div class="spinner"></div>
+      <span>Finding books&hellip;</span>
+    </div>
+  </div>
+
+  <script src="/static/script.js"></script>
+</body>
+</html>
