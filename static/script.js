@@ -87,9 +87,18 @@ function closeDropdown() {
 
 // --- Recommendations ---
 
+let currentMovie = "";
+let currentOffset = 0;
+const PAGE_SIZE = 5;
+const MAX_RESULTS = 30;
+
 async function getRecommendations() {
   const title = input.value.trim();
   if (!title) return;
+
+  // Reset state for a fresh search
+  currentMovie = title;
+  currentOffset = 0;
 
   hide(error);
   hide(results);
@@ -100,7 +109,7 @@ async function getRecommendations() {
     const res = await fetch("/api/recommend", {
       method: "POST",
       headers: { "Content-Type": "application/json" },
-      body: JSON.stringify({ movie_title: title, top_n: 5 }),
+      body: JSON.stringify({ movie_title: title, top_n: PAGE_SIZE, offset: 0 }),
     });
 
     const data = await res.json();
@@ -110,7 +119,7 @@ async function getRecommendations() {
       return;
     }
 
-    renderResults(title, data.recommendations);
+    renderResults(title, data.recommendations, false);
   } catch {
     showError("Could not reach the server. Please try again.");
   } finally {
@@ -119,11 +128,41 @@ async function getRecommendations() {
   }
 }
 
-function renderResults(title, recs) {
-  cards.innerHTML = "";
+async function loadMore() {
+  currentOffset += PAGE_SIZE;
+  const moreBtn = document.getElementById("moreBtn");
+  moreBtn.disabled = true;
+  moreBtn.textContent = "Loading…";
+
+  try {
+    const res = await fetch("/api/recommend", {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ movie_title: currentMovie, top_n: PAGE_SIZE, offset: currentOffset }),
+    });
+
+    const data = await res.json();
+
+    if (!res.ok || !data.recommendations?.length) {
+      moreBtn.textContent = "No more results";
+      moreBtn.disabled = true;
+      return;
+    }
+
+    renderResults(currentMovie, data.recommendations, true);
+  } catch {
+    moreBtn.textContent = "Show more suggestions";
+    moreBtn.disabled = false;
+  }
+}
+
+function renderResults(title, recs, append) {
+  if (!append) {
+    cards.innerHTML = "";
+  }
 
   if (!recs || recs.length === 0) {
-    showError(`No recommendations found for "${title}".`);
+    if (!append) showError(`No recommendations found for "${title}".`);
     return;
   }
 
@@ -150,6 +189,24 @@ function renderResults(title, recs) {
     });
     cards.appendChild(card);
   });
+
+  // Update or insert the "Show more" button
+  let moreBtn = document.getElementById("moreBtn");
+  if (!moreBtn) {
+    moreBtn = document.createElement("button");
+    moreBtn.id = "moreBtn";
+    moreBtn.className = "more-btn";
+    moreBtn.addEventListener("click", loadMore);
+    results.appendChild(moreBtn);
+  }
+
+  const nextOffset = currentOffset + PAGE_SIZE;
+  if (nextOffset >= MAX_RESULTS || recs.length < PAGE_SIZE) {
+    moreBtn.remove();
+  } else {
+    moreBtn.textContent = "Show more suggestions";
+    moreBtn.disabled = false;
+  }
 
   show(results);
 }
