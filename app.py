@@ -36,6 +36,7 @@ def recommend():
     movie_title = data["movie_title"].strip()
     top_n = int(data.get("top_n", 5))
     top_n = max(3, min(5, top_n))  # clamp to 3–5
+    offset = max(0, int(data.get("offset", 0)))
 
     try:
         recs = recommend_books_for_movie(
@@ -46,6 +47,7 @@ def recommend():
             book_embeddings=book_embeddings,
             top_n=top_n,
             min_similarity=0.0,
+            offset=offset,
         )
         return jsonify({"recommendations": recs})
     except ValueError as e:
