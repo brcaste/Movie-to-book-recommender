@@ -67,6 +67,7 @@ def recommend_books_for_movie(
         book_embeddings: np.ndarray,
         top_n: int= 3,
         min_similarity: float = 0.0,
+        offset: int = 0,
 ) -> List[Dict]:
 
     movie_idx = find_movie_index(movies_df, movie_title)
@@ -79,14 +80,18 @@ def recommend_books_for_movie(
     # Compute cosine similarity between this movie and all books
     sims = cosine_similarity(movie_vec, book_embeddings)[0]
 
-    # Get sorted indices of books by similarity (decending)
+    # Get sorted indices of books by similarity (descending)
     ranked_indices = np.argsort(-sims)
 
-    # Apply threshold and pick top_n
+    # Apply threshold, skip `offset` results, then pick top_n
     recommendations = []
+    skipped = 0
     for idx in ranked_indices:
         score = float(sims[idx])
         if score < min_similarity:
+            continue
+        if skipped < offset:
+            skipped += 1
             continue
 
         rec = {
