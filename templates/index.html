@@ -42,6 +42,29 @@
     </div>
   </div>
 
+  <!-- Book detail modal -->
+  <div id="modal" class="modal-overlay hidden" role="dialog" aria-modal="true" aria-labelledby="modalTitle">
+    <div class="modal">
+      <button class="modal-close" onclick="closeModal()" aria-label="Close">&times;</button>
+      <div class="modal-body">
+        <div class="modal-cover">
+          <img id="modalImg" src="" alt="Book cover" />
+        </div>
+        <div class="modal-info">
+          <div class="modal-score-badge" id="modalScore"></div>
+          <h3 id="modalTitle"></h3>
+          <p class="modal-author" id="modalAuthor"></p>
+          <p class="modal-description" id="modalDescription">
+            <span class="desc-loading">Loading description&hellip;</span>
+          </p>
+          <a id="modalAmazon" class="amazon-btn" href="#" target="_blank" rel="noopener noreferrer">
+            Buy on Amazon
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+
   <script src="/static/script.js"></script>
 </body>
 </html>

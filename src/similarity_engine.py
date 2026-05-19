@@ -89,11 +89,17 @@ def recommend_books_for_movie(
         if score < min_similarity:
             continue
 
-        rec= {
+        rec = {
             "book_title": books_df.loc[idx, "book_title"],
             "book_author": books_df.loc[idx, "book_author"],
             "similarity": round(score, 4),
         }
+        if "image_url" in books_df.columns:
+            val = books_df.loc[idx, "image_url"]
+            rec["image_url"] = val if pd.notna(val) else None
+        if "isbn13" in books_df.columns:
+            val = books_df.loc[idx, "isbn13"]
+            rec["isbn13"] = str(int(val)) if pd.notna(val) else None
         recommendations.append(rec)
 
         if len(recommendations) >= top_n:
