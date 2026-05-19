@@ -1,4 +1,5 @@
 import os
+import pandas as pd
 from flask import Flask, request, jsonify, render_template
 from src.similarity_engine import load_data_and_embeddings, recommend_books_for_movie
 
@@ -6,6 +7,13 @@ app = Flask(__name__)
 
 # Load data and embeddings once at startup
 movies_df, books_df, movie_embeddings, book_embeddings = load_data_and_embeddings()
+
+# Enrich books_df with image_url and isbn13 from raw data
+try:
+    raw_books = pd.read_csv("data/raw/books.csv")[["book_id", "image_url", "isbn13"]]
+    books_df = books_df.merge(raw_books, on="book_id", how="left")
+except Exception as e:
+    print(f"Warning: could not load raw books data: {e}")
 
 
 @app.route("/")

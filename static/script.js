@@ -12,7 +12,6 @@ const dropdown = document.getElementById("dropdown");
 let allMovies = [];
 let activeIndex = -1;
 
-// Fetch movie list once on load
 fetch("/api/movies")
   .then(r => r.json())
   .then(data => { allMovies = data.movies || []; })
@@ -30,12 +29,12 @@ input.addEventListener("input", () => {
 
   activeIndex = -1;
   dropdown.innerHTML = "";
-  matches.forEach((title, i) => {
+  matches.forEach((title) => {
     const li = document.createElement("li");
     li.textContent = title;
     li.setAttribute("role", "option");
     li.addEventListener("mousedown", (e) => {
-      e.preventDefault(); // prevent blur before click fires
+      e.preventDefault();
       selectTitle(title);
     });
     dropdown.appendChild(li);
@@ -67,7 +66,6 @@ input.addEventListener("keydown", (e) => {
 });
 
 input.addEventListener("blur", () => {
-  // Small delay so mousedown on a list item fires first
   setTimeout(closeDropdown, 150);
 });
 
@@ -135,18 +133,97 @@ function renderResults(title, recs) {
     const pct = Math.round(rec.similarity * 100);
     const card = document.createElement("div");
     card.className = "card";
+    card.setAttribute("role", "button");
+    card.setAttribute("tabindex", "0");
+    card.setAttribute("aria-label", `${rec.book_title} by ${rec.book_author} — click for details`);
     card.innerHTML = `
       <div class="card-info">
         <div class="card-title">${escapeHtml(rec.book_title)}</div>
         <div class="card-author">by ${escapeHtml(rec.book_author)}</div>
+        <div class="card-hint">Click for details</div>
       </div>
       <div class="card-score">${pct}% match</div>
     `;
+    card.addEventListener("click", () => openModal(rec));
+    card.addEventListener("keydown", (e) => {
+      if (e.key === "Enter" || e.key === " ") { e.preventDefault(); openModal(rec); }
+    });
     cards.appendChild(card);
   });
 
   show(results);
 }
+
+// --- Modal ---
+
+const modal      = document.getElementById("modal");
+const modalImg   = document.getElementById("modalImg");
+const modalTitle = document.getElementById("modalTitle");
+const modalAuthor  = document.getElementById("modalAuthor");
+const modalScore   = document.getElementById("modalScore");
+const modalDesc    = document.getElementById("modalDescription");
+const modalAmazon  = document.getElementById("modalAmazon");
+
+function openModal(rec) {
+  const pct = Math.round(rec.similarity * 100);
+
+  modalTitle.textContent  = rec.book_title;
+  modalAuthor.textContent = `by ${rec.book_author}`;
+  modalScore.textContent  = `${pct}% match`;
+
+  // Cover image
+  if (rec.image_url) {
+    modalImg.src = rec.image_url;
+    modalImg.alt = `Cover of ${rec.book_title}`;
+    modalImg.classList.remove("img-error");
+    modalImg.onerror = () => modalImg.classList.add("img-error");
+  } else {
+    modalImg.classList.add("img-error");
+  }
+
+  // Amazon search link
+  const query = encodeURIComponent(`${rec.book_title} ${rec.book_author}`);
+  modalAmazon.href = `https://www.amazon.com/s?k=${query}&i=stripbooks`;
+
+  // Reset description and fetch from Google Books API
+  modalDesc.innerHTML = '<span class="desc-loading">Loading description&hellip;</span>';
+  fetchDescription(rec.book_title, rec.book_author);
+
+  show(modal);
+  document.body.style.overflow = "hidden";
+  modal.focus();
+}
+
+function closeModal() {
+  hide(modal);
+  document.body.style.overflow = "";
+}
+
+// Close on overlay click (but not on modal card itself)
+modal.addEventListener("click", (e) => {
+  if (e.target === modal) closeModal();
+});
+
+// Close on Escape
+document.addEventListener("keydown", (e) => {
+  if (e.key === "Escape" && !modal.classList.contains("hidden")) closeModal();
+});
+
+async function fetchDescription(title, author) {
+  try {
+    const q = encodeURIComponent(`intitle:${title} inauthor:${author}`);
+    const res = await fetch(
+      `https://www.googleapis.com/books/v1/volumes?q=${q}&maxResults=1&fields=items(volumeInfo(description))`
+    );
+    const data = await res.json();
+    const desc = data?.items?.[0]?.volumeInfo?.description;
+    modalDesc.textContent = desc || "No description available.";
+  } catch {
+    modalDesc.textContent = "Could not load description.";
+  }
+}
+
+// --- Helpers ---
 
 function showError(msg) {
   error.textContent = msg;
